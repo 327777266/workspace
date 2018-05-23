@@ -1,0 +1,26 @@
+<!--pages/honor/honor.wxml   荣誉资质-->
+<view class='all'>
+<view class='product_info'>共3条信息</view>
+   <view class='product_body'>
+   
+   <view>
+   <image bindtap='honorOne' class='product_images'  src='http://ccslydq.com/wap/Upload/news/51BC4D4D9918D18A920907F090972360.jpg'></image>
+   <view class='product_font'>荣誉资质</view>
+   </view>
+   
+      <view>
+   <image bindtap='honorTwo' class='product_images'  src='http://ccslydq.com/wap/Upload/news/C91866C04C56D6E59EEAC3A144D52EE9.jpg'></image>
+   <view class='product_font'>荣誉资质</view>
+   </view>
+
+      <view>
+   <image bindtap='honorThree' class='product_images'  src='http://ccslydq.com/wap/Upload/news/7FD2E60FD40BA86C3AE4E5F8AAE96E90.jpg'></image>
+   <view class='product_font'>荣誉资质</view>
+   </view>
+
+
+
+   
+   </view>
+</view>
+

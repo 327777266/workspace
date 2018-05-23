@@ -1,0 +1,289 @@
+<swiper class='swiper' indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image"  mode='aspectFill'/>
+    </swiper-item>
+  </block>
+</swiper>
+
+<view class='icon'>
+
+  <view >
+    <image class='logo' bindtap='all' src='/image/icon1.png'></image>
+    <view class='text'>所有水果</view> 
+  </view>
+
+  <view >
+    <image class='logo' bindtap='shilin' src='/image/icon2.png'></image>
+    <view class='text'>时令上市</view> 
+  </view>
+ 
+  <view >
+    <image class='logo' bindtap='jingkou' src='/image/icon3.png'></image>
+    <view class='text'>进口水果</view> 
+   </view>
+
+  <view >
+    <image class='logo' bindtap='lsyp' src='/image/icon4.png'></image>
+    <view class='text'>零食饮品</view> 
+  </view>
+
+</view>
+
+<view class='icon'>
+
+  <view >
+    <image class='logo' bindtap='tuangou' src='/image/icon5.png'></image>
+    <view class='text'>团购</view> 
+  </view>
+
+  <view >
+    <image class='logo' bindtap='xstj' src='/image/icon6.png'></image>
+    <view class='text'>限时特价</view> 
+  </view>
+ 
+  <view >
+    <image class='logo' bindtap='lianxi' src='/image/icon5.png'></image>
+    <view class='text'>联系我们</view> 
+   </view>
+
+  <view >
+    <image class='logo' bindtap='calling'  src='/image/icon7.png'></image>
+    <view class='calling'>电话订购</view> 
+  </view>
+
+</view>
+
+
+<view class='lingjuan'>
+  <image class='liji_01' src='/image/card1.gif'></image>
+  <image class='liji_02' src='/image/card2.gif'></image>
+  <image class='liji_03' src='/image/card4.gif'></image>
+</view>
+
+<view class='xianshi'>
+<image class='xszk'  mode='aspectFit'  bindtap='xs' src='/image/xszk.png'></image>
+</view>
+
+<view class='fengli' bindtap='details'>
+
+  <view >
+     <image class='fl' src='https://imgqn3.fruitday.com/images/product_pic/8/1/1-370x370-8-B491CBYW.jpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>台湾金钻凤梨</view>
+
+     <view class='price'>
+     <view class='money'>￥39.9</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+    
+  </view>
+  <view >
+     <image class='fl' src='https://imgqn3.fruitday.com/images/product_pic/2147/1/1-370x370-2147-T9UDU124.jpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>智利有籽红提</view>
+
+     <view class='price'>
+     <view class='money'>￥39.9</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+
+  </view>
+
+</view>
+
+
+<view class='fengli' bindtap='details'>
+
+  <view>
+     <image class='fl' src='https://imgqn2.fruitday.com/images/product_pic/5081/1/1-370x370-5081-STS64266.jpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>新奇士晚熟脐橙巨无霸</view>
+
+     <view class='price'>
+     <view class='money'>￥39.9</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+    
+  </view>
+  <view>
+     <image class='fl' src='https://imgqn1.fruitday.com/images/product_pic/2421/1/1-370x370-2421-AKB4C96S.jpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>南汇西瓜</view>
+
+     <view class='price'>
+     <view class='money'>￥39.9</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+
+  </view>
+
+</view>
+
+
+<view class='fengli' bindtap='details'>
+
+  <view >
+     <image class='fl' src='https://imgqn2.fruitday.com/images/product_pic/2350/1/1-370x370-2350-6CW8TD5H.jpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>云南夏黑葡萄</view>
+
+     <view class='price'>
+     <view class='money'>￥39.8</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://imgqn4.fruitday.com/images/product_pic/189/1/1-370x370-189-DK9DUTKR.jpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>Driscolls小巨人蓝莓</view>
+
+     <view class='price'>
+     <view class='money'>￥39.9</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+
+  </view>
+
+</view>
+
+<view class='xianshi'>
+<image class='xszk' bindtap='pingtuan'  src='/image/pingtuan.png'></image>
+</view>
+
+<scroll-view  scroll-x >
+
+<view class='much' bindtap='details'>
+
+  <view class='biaoti'>
+    <image class='picture' src='https://imgqn4.fruitday.com/images/product_pic/4069/1/1-370x370-4069-CSRFHUK6.jpg'></image>
+  <view class='gz'>禾煜和田贡枣</view>
+  <view class='prc'>
+     <view class='my'>￥39.9</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+  </view>
+</view>
+
+<view class='biaoti'>
+  <image class='picture' src='https://img11.360buyimg.com/n1/jfs/t18028/164/445422882/349389/a4f6ee5c/5a7a4fdeN390efef5.jpg.dpg'></image>
+<view class='gz'>怡颗莓</view>
+  <view class='prc'>
+     <view class='my'>￥68.00</view>
+  <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+  </view>
+</view>
+
+<view class='biaoti'>
+   <image class='picture' src='http://img10.360buyimg.com/n1/jfs/t17740/327/925846464/279298/4e2c0a11/5ab0d753N246cf77e.jpg.dpg'></image>
+   <view class='gz'>禾新奇士脐橙</view>
+<view class='prc'>
+     <view class='my'>￥39.9</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+</view>
+</view>
+
+
+<view class='biaoti'>
+   <image class='picture' src='https://img14.360buyimg.com/n0/jfs/t2977/138/2111174449/437408/68c9c579/579c50c0N9017e5a3.jpg'></image>
+   <view class='gz'>海南红心木瓜 </view>
+<view class='prc'>
+     <view class='my'>￥49.9</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+</view>
+</view>
+
+<view class='biaoti'>
+   <image class='picture' src='https://img14.360buyimg.com/n0/jfs/t14752/264/2552708746/295534/5c7a13d8/5aa644faN0fd31572.jpg'></image>
+   <view class='gz'>海南大青柠 </view>
+<view class='prc'>
+     <view class='my'>￥48.9</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+</view>
+</view>
+
+
+<view class='biaoti'>
+   <image class='picture' src='https://img14.360buyimg.com/n0/jfs/t16987/51/2360687945/229208/c9f1ba7e/5af14b98N92c9e978.jpg'></image>
+   <view class='gz'>烟台美早樱桃</view>
+<view class='prc'>
+     <view class='my'>￥99.9</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+</view>
+</view>
+
+</view>
+</scroll-view>
+
+<view class='xpqx'>
+<image class='xinping' mode='aspectFit' bindtap='xinping' src='/image/xinaping.png'></image>
+</view>
+
+
+
+<scroll-view  scroll-x >
+
+<view class='much' bindtap='details'>
+
+  <view class='biaoti'>
+    <image class='picture' src='https://img14.360buyimg.com/n0/jfs/t14887/136/1911279933/202892/279f96a9/5a61a82aN9711caef.jpg'></image>
+  <view class='gz'>黑美人西瓜 </view>
+  <view class='prc'>
+     <view class='my'>￥27.9</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+  </view>
+</view>
+
+<view class='biaoti'>
+  <image class='picture' src='https://img14.360buyimg.com/n0/jfs/t9733/276/979238653/71816/4bbe6f88/59dae4bfN2369b686.jpg'></image>
+<view class='gz'>金枕头榴莲</view>
+  <view class='prc'>
+     <view class='my'>￥126.00</view>
+  <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+  </view>
+</view>
+
+<view class='biaoti'>
+   <image class='picture' src='https://img14.360buyimg.com/n0/jfs/t11317/364/17571424/573455/6d39f006/59e5be49N6de07153.jpg'></image>
+   <view class='gz'>金蛇果苹果</view>
+<view class='prc'>
+     <view class='my'>￥20.09</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+</view>
+</view>
+
+
+<view class='biaoti'>
+   <image class='picture' src='https://img14.360buyimg.com/n0/jfs/t5053/115/2412819671/214745/c4b9e9be/58ff1145Nc6b3e317.jpg'></image>
+   <view class='gz'>进口绿奇异果 </view>
+<view class='prc'>
+     <view class='my'>￥49.9</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+</view>
+</view>
+
+<view class='biaoti'>
+   <image class='picture' src='https://img14.360buyimg.com/n0/jfs/t18679/1/2349509648/145769/16273348/5af14d23N68740f95.jpg'></image>
+   <view class='gz'>小金煌芒果 </view>
+<view class='prc'>
+     <view class='my'>￥25.9</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+</view>
+</view>
+
+
+<view class='biaoti'>
+   <image class='picture' src='https://img14.360buyimg.com/n0/jfs/t16987/51/2360687945/229208/c9f1ba7e/5af14b98N92c9e978.jpg'></image>
+   <view class='gz'>烟台美早樱桃</view>
+<view class='prc'>
+     <view class='my'>￥99.9</view>
+     <image mode='aspectFit' class='gongzao' src='/image/tianjia.png'></image>
+</view>
+</view>
+
+</view>
+</scroll-view>
+
+

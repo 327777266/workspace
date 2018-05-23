@@ -1,0 +1,37 @@
+/* pages/Buy/Buy.wxss */
+.yi{
+  width: 100%;
+  height: 730rpx;
+}
+.er{
+  width: 100%;
+  height: 700rpx;
+}
+.san{
+  width: 100%;
+  height: 450rpx;
+}
+.si{
+  width: 100%;
+  height: 700rpx;
+}
+.wu{
+  width: 100%;
+  height: 700rpx;
+}
+.liu{
+  width: 100%;
+  height: 700rpx;
+}
+.qi{
+  width: 100%;
+  height: 700rpx;
+}
+.ba{
+  width: 100%;
+  height: 700rpx;
+}
+.jiu{
+  width: 100%;
+  height: 700rpx;
+}

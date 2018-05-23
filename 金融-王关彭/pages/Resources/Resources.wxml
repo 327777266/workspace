@@ -1,0 +1,42 @@
+<!--pages/Resources/Resources.wxml-->
+<view class='tupian'>
+  <image class='images' src='https://i02piccdn.sogoucdn.com/ab273081de954181'></image>
+</view>
+
+<view class='xinxi'>车源信息</view>
+
+<view class='wenzi'>
+  <view class='zuo'>
+    <view class='wenzi_01'>阿尔法·罗密欧,2017款 2.0T 280HP豪华运动版</view>
+    <view class='wenzi_02'>颜色：黄色</view>
+    <view class='wenzi_03'>知道价格：46.78万元</view>
+  </view>
+  <view class='you'>
+    <view class='wenzi_04'>销售区域：肇庆市</view>
+    <view class='wenzi_05'>优惠金额：1100.00元</view>
+  </view>
+</view>
+
+<view class='wenzi'>
+  <view class='zuo'>
+    <view class='wenzi_01'>AC Schnitzer,2015款ACS3 sport</view>
+    <view class='wenzi_02'>颜色：1 2 3</view>
+    <view class='wenzi_03'>知道价格：109.00万元</view>
+  </view>
+  <view class='you'>
+    <view class='wenzi_04'>销售区域：广州市</view>
+    <view class='wenzi_05'>优惠金额：1100.00元</view>
+  </view>
+</view>
+
+<view class='wenzi'>
+  <view class='zuo'>
+    <view class='wenzi_01'>奥迪,2017款 TT RS 2.5T Coupe</view>
+    <view class='wenzi_02'>颜色：白色</view>
+    <view class='wenzi_03'>知道价格：84.80万元</view>
+  </view>
+  <view class='you'>
+    <view class='wenzi_04'>销售区域：珠海市</view>
+    <view class='wenzi_05'>优惠金额：1100.00元</view>
+  </view>
+</view>

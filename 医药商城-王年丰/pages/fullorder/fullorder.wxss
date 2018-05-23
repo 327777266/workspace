@@ -1,0 +1,20 @@
+/* pages/fullorder/fullorder.wxss */
+#tabbar{
+    margin: 20rpx auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background: white;
+}
+
+
+#tabbar .active{
+    border-bottom:2px solid #2dae99;
+    color: #2dae99; 
+}
+
+.order_text{
+  text-align: center;
+  height: 1000rpx;
+  line-height: 1000rpx;
+}

@@ -1,0 +1,34 @@
+<!--pages/fullorder/fullorder.wxml-->
+<view >
+  <view id='tabbar'>
+    <block wx:if="{{typeId==0}}">
+      <text bindtap="changeToAll" class='bar-item active'>全部订单</text>
+    </block>
+    <block wx:if="{{typeId!=0}}">
+      <text bindtap="changeToAll" class='bar-item'>全部订单</text>
+    </block>
+    <block wx:if="{{typeId==1}}">
+      <text bindtap="changeToPay" class='bar-item active'>待付款</text>
+    </block>
+    <block wx:if="{{typeId!=1}}">
+      <text bindtap="changeToPay" class='bar-item'>待付款</text>
+    </block>
+    <block wx:if="{{typeId==2}}">
+      <text bindtap="changeToFa" class='bar-item active'>待发货</text>
+    </block>
+    <block wx:if="{{typeId!=2}}">
+      <text bindtap="changeToFa" class='bar-item'>待发货</text>
+    </block>
+
+    <block wx:if="{{typeId==3}}">
+      <text bindtap="changeToShou" class='bar-item active'>待收货</text>
+    </block>
+    <block wx:if="{{typeId!=3}}">
+      <text bindtap="changeToShou" class='bar-item'>待收货</text>
+    </block>
+
+  </view>
+  
+      <view class='order_text'>您暂时还没有订单</view>
+  
+</view>

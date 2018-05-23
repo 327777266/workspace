@@ -1,0 +1,9 @@
+/* pages/success7/success7.wxss */
+.IMG{
+  margin-top: 20rpx;
+  width: 100%
+}
+.SIZE{
+  font-size: 30rpx;
+  text-align: center
+}

@@ -1,0 +1,68 @@
+<!--pages/information/information.wxml  行业资讯-->
+<view class='all'>
+<view class='info_all'>
+<view class='info_down' bindtap='One'>
+<view>长春市加大财政补贴力度推...</view>
+<view>2017/12/26</view>
+</view>
+<view class='info_down' bindtap='Two'>
+<view>外帐会计 内容 岗位职责</view>
+<view>2017/11/20</view>
+</view>
+
+<view class='info_down' bindtap='Three'>
+<view>国网河北省电力公司：新增...</view>
+<view>2017/08/14</view>
+</view>
+
+<view class='info_down' bindtap='Four'>
+<view>关于推进电能清洁供暖的实施</view>
+<view>2017/08/14</view>
+</view>
+
+<view class='info_down' bindtap='Five'>
+<view>电供暖项目每平方米补贴</view>
+<view>2017/08/14</view>
+</view>
+
+<view class='info_down' bindtap='Six'>
+<view>电采暖与传统煤锅炉的优势...</view>
+<view>2017/08/14</view>
+</view>
+
+<view class='info_down' bindtap='Seven'>
+<view>城镇化带动绿色产业电采暖...</view>
+<view>2017/08/14</view>
+</view>
+<view class='info_down' bindtap='Eight'>
+<view>电锅炉的维护保养</view>
+<view>2017/08/03</view>
+</view>
+
+<view class='info_down' bindtap='Nine'>
+<view>注意事项</view>
+<view>2017/08/03</view>
+</view>
+
+<view class='info_down' bindtap='Ten'>
+<view>工业用炉</view>
+<view>2017/08/03</view>
+</view>
+
+<view class='info_down' bindtap='Eleven'>
+<view>电锅炉的分类及用途</view>
+<view>2017/08/03</view>
+</view>
+
+<view class='info_down' bindtap='Twelve'>
+<view>电锅炉</view>
+<view>2017/08/03</view>
+</view>
+
+
+
+
+
+
+</view>
+</view>

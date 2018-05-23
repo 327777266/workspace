@@ -1,0 +1,14 @@
+/* pages/industryinformation/five/five.wxss */
+.wu{
+  width: 100%;
+}
+.yi{
+  font-size: 50rpx;
+  font-weight: bold;
+  text-align: center;
+}
+.aaa{
+  font-size: 35rpx;
+  line-height: 60rpx;
+  margin-top: 30rpx;
+}

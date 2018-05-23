@@ -1,0 +1,51 @@
+/* pages/Riches/Riches.wxss */
+.yi{
+  width: 100%;
+  height: 550rpx;
+}
+.er{
+  width: 100%;
+  height: 550rpx;
+}
+.san{
+  width: 100%;
+  height: 850rpx;
+  margin-top: -20rpx;
+  margin-left: -1rpx;
+}
+.si{
+  width: 100%;
+  height: 500rpx;
+}
+.wu{
+  width: 100%;
+  height: 530rpx;
+}
+.liu{
+  width: 100%;
+  height: 480rpx;
+}
+.qi{
+  width: 100%;
+  height: 520rpx;
+}
+.ba{
+  width: 100%;
+  height: 520rpx;
+}
+.jiu{
+  width: 100%;
+  height: 570rpx;
+}
+.shi{
+  width: 100%;
+  height: 480rpx;
+}
+.shiyi{
+  width: 100%;
+  height: 930rpx;
+}
+.shier{
+  width: 100%;
+  height: 900rpx;
+}

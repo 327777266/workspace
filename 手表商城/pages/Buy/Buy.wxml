@@ -1,0 +1,12 @@
+<!--pages/Buy/Buy.wxml-->
+<view class='tu'>
+  <image class='yi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/eOrONldwAgDg9A7S9R9kWLk5l1SN57.png'></image>
+  <image class='er' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/Wxz3vm1vlCC3uZLM3mMiYV4y54x4cM.png'></image>
+  <image class='san' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/h3TiifK7b6SBFNf3u3K37k7uQT7Nvf.jpg'></image>
+  <image class='si' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/xILLI4tfibe8ldZDNU3InBUdNFUGuw.jpg'></image>
+  <image class='wu' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/irX8ruR7DHFAK6NkN65aDrrUuL70Al.jpg'></image>
+  <image class='liu' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/meEbqD1q3TCz2wUCQs8sTcO4mcCC7f.jpg'></image>
+  <image class='qi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/I845hAxkWAx5HTtd2lh8L4582ZDn24.jpg'></image>
+  <image class='ba' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/eUSqBNJTGSToq4144qJQqCppjPTMMQ.jpg'></image>
+  <image class='jiu' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/Bq3W3eJ3Er5V55vkW3VweW33vEEvqe.jpg'></image>
+</view>

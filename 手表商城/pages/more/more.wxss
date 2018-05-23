@@ -1,0 +1,17 @@
+/* pages/more/more.wxss */
+.yi{
+  width: 100%;
+  height: 650rpx;
+}
+.er{
+  width: 100%;
+  height: 700rpx;
+}
+.san{
+  width: 100%;
+  height: 600rpx;
+}
+.si{
+  width: 100%;
+  height: 600rpx;
+}

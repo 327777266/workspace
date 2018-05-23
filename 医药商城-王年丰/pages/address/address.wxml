@@ -1,0 +1,11 @@
+<!--pages/address/address.wxml-->
+<view class='all'>
+<view class='add'>当前暂无详细收货地址</view>
+<view class='dian'>请点击下方按钮新增</view>
+</view>
+
+<view class='footer'>
+
+<view class='foot' bindtap='addre'><button type='warn' >新增收货地址</button></view>
+
+</view>

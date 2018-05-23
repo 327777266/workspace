@@ -1,0 +1,34 @@
+<!--pages/product/product.wxml 产品展示-->
+<view class='all'>
+<view class='product_info'>共9条信息</view>
+   <view class='product_body'>
+   
+   <view bindtap='toProductOne'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/shop/73705C3FD3783B3FF34454F78FA9FC82.JPG'></image>
+   <view class='product_font'>环境展示</view>
+   </view>
+   
+      <view bindtap='toProductTwo'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/shop/A144810567334597618BEB0E913FA08B.JPG'></image>
+   <view class='product_font'>环境展示</view>
+   </view>
+
+      <view bindtap='toProductThree'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/shop/66ED47DBD7B32E1E0DA70D4F16966CBE.jpg'></image>
+   <view class='product_font'>一代电锅炉</view>
+   </view>
+
+         <view bindtap='toProductFour'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/shop/20EA90F73D313A3223A6B9A326C6B368.jpg'></image>
+   <view class='product_font'>二代电锅炉</view>
+   </view>
+
+         <view bindtap='toProductFive'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/shop/69209B3AE5D05FA6E0A3B390A65C1772.jpg'></image>
+   <view class='product_font'>三代电锅炉</view>
+   </view>
+
+
+   
+   </view>
+</view>

@@ -1,0 +1,21 @@
+/* pages/industryinformation/four/four.wxss */
+.si{
+  width: 100%;
+  line-height: 80rpx;
+}
+.yi{
+  font-size: 50rpx;
+  font-weight: bold;
+  text-align: center;
+}
+
+.biaoti{
+  font-size: 38rpx;
+  font-weight: bold;
+  margin: 30rpx 0 30rpx 0;
+}
+.xiaobiao{
+  font-size: 32rpx;
+  font-weight: bold;
+  margin: 15rpx 0 15rpx 0;
+}

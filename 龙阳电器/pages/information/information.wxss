@@ -1,0 +1,12 @@
+/* pages/information/information.wxss */
+
+.all{
+  width: 95%;
+  margin: 50rpx auto;
+  
+}
+.info_down{
+  margin: 40rpx auto;
+  display: flex;
+  justify-content: space-between
+}

@@ -1,0 +1,5 @@
+<!--pages/Introduction/Introduction.wxml-->
+<view class='tupian'>
+  <image class='images' src='https://i02piccdn.sogoucdn.com/ab273081de954181'></image>
+</view>
+<view class='wenzi'>（根据公司情况）</view>

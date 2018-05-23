@@ -1,0 +1,50 @@
+
+<view style="background:#eee">
+    <scroll-view scroll-y style="height:1130rpx">
+        <swiper id='pics' indicator-dots >
+        <block wx:for="{{ deail.pics}}">
+            <swiper-item>
+                <image src="{{item}}" mode="aspectFill"  class='icon'></image>
+            </swiper-item>
+        </block>
+    </swiper>
+
+    <view id='desc'>
+        <view class='title'>
+            {{deail.title}}
+        </view>
+        <view class='price'>
+          ￥{{ deail.tcprices[ deail.tc]}}
+        </view>
+        <view class='prevprice'>
+           <text>{{deail.prevprice}}</text> 
+        </view>
+        
+    </view>
+
+    <view id='tc'>
+        <picker bindchange="changeTc" mode="selector" range="{{ deail.tcs}}" value="{{deail.tc}}">
+           颜色选择: <text>{{deail.tcs[deail.tc]}}</text>
+        </picker>
+    </view>
+
+    <view id='twxq'>
+        <!-- <text class='head'>图文详情</text> -->
+        <block wx:for="{{deail.xqs}}">
+            <block wx:if="{{item.type==0}}">
+                <image src="{{item.content}}" class='pic' mode="aspectFit"></image>
+              
+            </block>
+            <block wx:if="{{item.type==1}}">
+                <text class='text'>{{item.content}}</text>
+            </block>
+        </block>
+    </view>
+    </scroll-view>
+
+    <view id='foot'>
+        <text class='cart' bindtap="addToCart">加入购物车</text>
+        <text class='buy' bindtap="buyNow">立即购买</text>
+    </view>
+
+</view>

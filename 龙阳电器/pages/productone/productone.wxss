@@ -1,0 +1,5 @@
+/* pages/productone/productone.wxss */
+.IMG{
+  margin: 200rpx auto;
+  width: 100%
+}

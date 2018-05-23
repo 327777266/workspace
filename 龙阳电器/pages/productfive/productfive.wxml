@@ -1,0 +1,12 @@
+<!--pages/productfive/productfive.wxml-->
+<image class='IMG' src='http://www.ccslydq.com/upfile/isClass/pic/20170814141433-28200443927198648.jpg'></image>
+<image class='IMG' src='http://www.ccslydq.com/userfiles/images/20170824145341-72381070908159024.jpg'></image>
+<view class='textBox'>
+
+
+<view>  <view class='FONT'>第三代产品</view>：开发了远程控制功能</view>
+<view>  公司第三代产品具备第二代产品的全部优点，又自主研发并安装了远程监控技术，无论是使用手机、还是电脑，对电锅炉都能实现远程监控，真正做到一机在手，无论是到天涯海角，一切尽在掌握之中。 </view>
+
+
+
+</view>

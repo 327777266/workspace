@@ -1,0 +1,105 @@
+<view class="container">
+ <view class='INPUT'>
+   <image src='/image/banner.png' class='banner' bindtap='scrollto'></image>
+   <view class='input_name'>
+   <input class='input_value' placeholder='搜索药/病/症' placeholder-style="text-indent:20rpx;" type='text' confirm-type="search"></input>
+   
+   </view>
+ </view>
+
+ <view class='body'>
+<view class='tab'>
+   <view bindtap='toOld'>
+   <image src='/image/icon1.png' class='pic'></image>
+   <view class='tab_text'>老人</view>
+   </view>
+    <view bindtap='toOld'>
+   <image src='/image/icon2.png' class='pic'></image>
+   <view class='tab_text'>儿童</view>
+   </view>
+   <view bindtap='toOld'>
+   <image src='/image/icon3.png' class='pic'></image>
+   <view class='tab_text'>两性</view>
+   </view>
+   <view bindtap='toOld'>
+   <image src='/image/icon4.png' class='pic'></image>
+   <view class='tab_text'>母婴</view>
+   </view>
+</view>
+<view class='tab'>
+   <view bindtap='toOld'>
+   <image src='/image/icon5.png' class='pic'></image>
+   <view class='tab_text'>保健养生</view>
+   </view>
+    <view bindtap='toOld'>
+   <image src='/image/icon6.png' class='pic'></image>
+   <view class='tab_text'>皮肤护理</view>
+   </view>
+   <view bindtap='toOld'>
+   <image src='/image/icon7.png' class='pic'></image>
+   <view class='tab_text'>心脑血管</view>
+   </view>
+   <view bindtap='toOld'>
+   <image src='/image/icon8.png' class='pic'></image>
+   <view class='tab_text'>打折药品</view>
+   </view>
+</view>
+
+<view class='rush'>
+  <view class='rush_icon'>
+  <view class='rush_pic' >
+  <image src='/image/time.png' class='Time'></image>
+  <view class='rush_text'>抢购</view>
+  </view>
+   <view bindtap='toOld'>
+  <image src='/image/more.png' class='More'></image>
+  </view>
+  </view>
+  
+<view class='rush_list'>
+  <view class='rush_list_one' bindtap='toRush'>
+  <view><image src='/image/pic1.png' class='PIC1'></image></view>
+  <view class='rush_list_text1'>爱乐维复合维生素</view>
+  <view class='rush_list_text2'>￥83.0</view>
+  <view class='rush_list_text3'>原价：￥183.0</view>
+  </view>
+
+  <view class='rush_list_one' bindtap='toRush'>
+  <view><image src='/image/pic2.png' class='PIC1'></image></view>
+  <view class='rush_list_text1'>爱乐维复合维生素</view>
+  <view class='rush_list_text2'>￥83.0</view>
+  <view class='rush_list_text3'>原价：￥183.0</view>
+  </view>
+
+  <view class='rush_list_one' style='border:none' bindtap='toRush'>
+  <view><image src='/image/pic3.png' class='PIC1'></image></view>
+  <view class='rush_list_text1'>爱乐维复合维生素</view>
+  <view class='rush_list_text2'>￥83.0</view>
+  <view class='rush_list_text3'>原价：￥183.0</view>
+  </view>
+
+</view>
+
+</view>
+
+<view class='mod' bindtap='toRush'>
+ <view class='mod_li' >
+<image src='/image/mod_pic1.png' class='mod_pic1'></image>
+ </view>
+<view>
+<view><image src='/image/mod_pic2.png' class='mod_pic2'></image></view>
+</view>
+
+<view>
+<view><image src='/image/mod_pic3.png' class='mod_pic3'></image></view>
+</view>
+
+<view class='mod_list'>
+ <view class=''><image src='/image/mod_pic4.png' class='mod_pic4'></image></view>
+ <view><image src='/image/mod_pic5.png' class='mod_pic4'></image></view>
+ <view><image src='/image/mod_pic6.png' class='mod_pic4'></image></view>
+</view>
+
+</view>
+</view>
+</view>

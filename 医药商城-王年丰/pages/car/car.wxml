@@ -1,0 +1,19 @@
+<!--pages/car/car.wxml-->
+<view>
+         <view id='nothing'>购物车空空的,去<navigator url="../goods/goods" open-type="switchTab" class='Index'>商店</navigator> 逛逛吧!</view>
+
+  <view id="foot">
+    <view id="all">
+      <switch type="checkbox" checked="{{isAll}}" bindchange="checkAll" />
+      <text class='ctr'>全选</text>
+    </view>
+    <view id='submit' bindtap='submitCart'>
+      结算({{totalCount}})
+    </view>
+    <view id='total'>
+      合计:
+      <text class='red'>￥{{totalPrice}}</text>
+    </view>
+  </view>
+</view>
+

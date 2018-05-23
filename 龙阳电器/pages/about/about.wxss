@@ -1,0 +1,8 @@
+/* pages/about/about.wxss */
+.all{
+  width: 95%;
+  margin: 50rpx auto
+}
+.font_size{
+  font-weight: bolder
+}

@@ -1,0 +1,37 @@
+<view class='header'>
+
+<view class='all'>
+  <image class='pic'  mode='aspectFit' src='https://www.alange-soehne.com/assets/Timepieces/FrontImage-440x720-px-FrontDetailImage-2320x3600-px/Lange-1815-Tourbillon-Rotgold-pink-gold-235-032-front-72dpi.jpg'></image>
+  <!-- <view class='text'>1815 233.032</view> -->
+
+<view class='textone'>
+   <view class='texttwo'>182000</view>
+   <view class='textsele'>HK$199000</view>
+   <view class='textthree'>€19300</view>
+</view>
+
+<view class='wenzi'>
+    <view class='wenzifour'>￥国内价格..</view>
+    <view class='wenzifive'>香港售价</view>
+    <view class='wenzisix'>欧洲价格</view>
+</view>
+    <view class='color'></view>
+</view>
+
+ <view class='picture'>
+<image  class='picone'  src='/image/langge1.png'></image>
+</view>
+
+<view class='picturetwo'>
+<image  class='pictwo'  src='/image/langge2.png'></image>
+</view>
+
+<view class='picturethree'>
+<image  class='picthree'  src='/image/langge3.png'></image>
+</view>
+
+<view class='picturefour'>
+<image  class='picfour'  src='/image/langge4.png'></image>
+</view> 
+
+</view>

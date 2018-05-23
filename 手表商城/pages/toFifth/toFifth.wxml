@@ -1,0 +1,41 @@
+<view class='header'>
+
+<view class='all'>
+  <image class='pic'  mode='aspectFit' src='https://static.patek.com/images/articles/face_white/220/6102P_001.jpg'></image>
+  <view class='text'> 超级复杂功能计时 6104G-001</view>
+
+<view class='textone'>
+   <view class='texttwo'>2938700</view>
+   <view class='textsele'>暂无售价</view>
+   <view class='textthree'>暂无售价</view>
+</view>
+
+<view class='wenzi'>
+    <view class='wenzifour'>￥中国大陆...</view>
+    <view class='wenzifive'>HK 香港售价</view>
+    <view class='wenzisix'>$美国售价</view>
+</view>
+    <view class='color'></view>
+</view>
+
+<view class='picture'>
+<image  class='picone'  src='/image/baidafeili2.png'></image>
+</view>
+
+<view class='picturetwo'>
+<image  class='pictwo'  src='/image/baidafeili3.png'></image>
+</view>
+
+<view class='picturethree'>
+<image  class='picthree'  src='/image/baidafeili4.png'></image>
+</view>
+
+<view class='picturefour'>
+<image  class='picfour'  src='/image/baidafeili1.png'></image>
+</view>
+
+</view>
+
+
+
+

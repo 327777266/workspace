@@ -1,0 +1,44 @@
+
+<view class='body'>
+
+<view class='feingli'>
+  <view class='color'>
+     <image class='fl' mode='aspectFit' src='/image/pic.png'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>鲜丰玉麒麟西瓜半只约5斤（超出补差价）</view>
+     <view class='money'>￥39.9</view>
+  <view class='price'>
+     <view class='howmuch'>运费：免运费</view>
+     <view class='howmuchone'>销量：390</view>
+  </view>
+
+  </view>
+
+  <view class='priceone'>
+     <view class='chose'>选择：规格</view>
+     <image class='choseone' mode='aspectFit' src='/image/6.png'></image>
+  </view>
+  
+
+  <view class='priceone'>
+     <view class='peisong'>配送方式：自提</view>
+     
+  </view>
+
+  <view class='priceone'>
+     <view class='peisong'>商品详情</view>   
+     
+  </view>
+  
+  <view class='goods'>
+   <image class='picture' src='https://img20.360buyimg.com/vc/jfs/t16327/236/2543382334/393997/61046faa/5ab484e9N3ce3345d.jpg'></image>
+  <image class='pictureone' src='https://img.alicdn.com/imgextra/i1/3253246365/TB2m_C.fHArBKNjSZFLXXc_dVXa_!!3253246365.png'></image>
+  </view>
+
+</view>
+
+
+  
+
+
+</view>

@@ -1,0 +1,24 @@
+<!--pages/rush/rush.wxml-->
+<view class='con'>
+<view class='top_bn'><image src='/image/pic2.png' mode='aspectFit'></image></view>
+
+<view class='top_textone'><text>全孕期适用 叶酸+VAVB等12种维生素+7种矿物质 </text></view>
+<view class='top_texttwo'>￥<text>69.0</text></view>
+<view class='top_textthree'><text>库存：200</text><text>运费：包邮</text></view>
+
+<view class='commodity_details'><text>//</text>商品详情<text>//</text></view>
+
+<image class='picone' src='https://p2.maiyaole.com/img/item/201703/01/20170301095855889.jpg'></image>
+<image class='picone' src='https://p2.maiyaole.com/img/item/201703/01/2017030109585671.jpg'></image>
+<image class='picone' src='https://p2.maiyaole.com/img/item/201703/01/20170301095856209.jpg'></image>
+<image class='picone' src='https://p2.maiyaole.com/img/item/201703/01/20170301095856325.jpg'></image>
+<image class='picone' src='https://p2.maiyaole.com/img/item/201703/01/20170301095856455.jpg'></image>
+<image class='picone' src='https://p2.maiyaole.com/img/item/201703/01/20170301095856561.jpg'></image>
+<image class='picone' src='https://p2.maiyaole.com/img/item/201703/01/20170301095856656.jpg'></image>
+
+<view class='footer'>
+
+<view class='foot_three'><button type='warn' >加入购物车</button></view>
+<view class='foot_four'><button type='warn'>立即购买</button></view>
+</view>
+</view>

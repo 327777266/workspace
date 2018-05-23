@@ -1,0 +1,100 @@
+/* pages/lnsurance/lnsurance.wxss */
+.images{
+  width: 100%;
+  height: 320rpx;
+}
+
+.sousuo{
+  width: 100%;
+  height: 80rpx;
+  margin-top: 10rpx;
+}
+.sousuo image{
+  width: 10%;
+  height: 75rpx;
+  margin: 0 auto;
+  float: left;
+}
+.wenzi{
+  width: 15%;
+  height: 80rpx;
+  float: left;
+  font-size: 28rpx;
+  line-height: 80rpx;
+}
+.sousuo input{
+  height: 80rpx;
+  width: 60%;
+  float: left;
+  background: #999;
+  margin: 0 auto;
+  font-size: 26rpx;
+}
+.sousuo button{
+  width: 15%;
+  height: 80rpx;
+  float: left;
+  line-height: 80rpx;
+}
+
+.picker{
+  float: left;
+  margin-top: 22rpx;
+  margin-left: 50rpx;
+  font-size: 28rpx;
+}
+
+.jine{
+  width: 100%;
+  height: 80rpx;
+  margin-top: 10rpx;
+}
+.fapiao{
+  width: 35%;
+  height: 80rpx;
+  float: left;
+  line-height: 80rpx;
+  font-size: 28rpx;
+  margin-left: 10rpc;
+}
+.kongbai{
+  width: 15%;
+  height: 80rpx;float: left;
+}
+.jine input{
+  height: 80rpx;
+  width: 50%;
+  float: left;
+  background: #999;
+  margin: 0 auto;
+  font-size: 28rpx;
+}
+
+
+.baoxian{
+  width: 100%;
+  height: 430rpx;
+  margin-top: 15rpx;
+}
+.baofei{
+  width: 100%;
+  font-size: 30rpx;
+  text-align: center;
+  padding-top: 15rpx;
+}
+.yi{
+  width: 32%;
+  height: 400rpx;
+  float: left;
+  font-size: 26rpx;
+  margin-left: 8rpx;
+  text-align: center;
+  padding-top: 20rpx;
+}
+
+
+.tijiao{
+  width: 100%;
+  color: #fff;
+  background-color: red;
+}

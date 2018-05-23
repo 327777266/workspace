@@ -1,0 +1,245 @@
+
+<view class='body' bindtap='dianji'>
+<view class='fengli'>
+
+  <view >
+     <image class='fl' src='https://image.suning.cn/uimg/b2c/newcatentries/0010128947-000000000602430731_2.jpg_800w_800h_4e'></image>
+     <view class='jieshao'>四川安岳黄柠檬</view>
+
+     <view class='price'>
+     <view class='money'>￥10.8</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t19198/258/1472320955/67363/36cff595/5acc2a01N54fa281e.jpg'></image>
+     <view class='jieshao'>新西兰阳光金奇异果</view>
+
+     <view class='price'>
+     <view class='money'>￥108</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+
+<view class='fengli'>
+
+  <view >
+     <image class='fl' src='https://img.alicdn.com/imgextra/i4/1910146537/TB2oQMZrkKWBuNjy1zjXXcOypXa_!!1910146537.jpg_430x430q90.jpg'></image>
+     <view class='jieshao'>辽宁大连油桃</view>
+
+     <view class='price'>
+     <view class='money'>￥10.8</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t18661/7/912972746/74045/93fb4c0c/5ab0b3b5Ncd0faf58.jpg'></image>
+     <view class='jieshao'>越南进口大青芒果</view>
+
+     <view class='price'>
+     <view class='money'>￥49.8</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+<view class='fengli'>
+
+  <view >
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t18028/164/445422882/349389/a4f6ee5c/5a7a4fdeN390efef5.jpg'></image>
+     <view class='jieshao'>Driscoll's 怡颗莓 </view>
+
+     <view class='price'>
+     <view class='money'>￥49.8</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t15661/211/1903204421/292729/da63d008/5a6c50a0N8c4ead83.jpg'></image>
+     <view class='jieshao'>四川丑橘</view>
+
+     <view class='price'>
+     <view class='money'>￥39.8</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+
+<view class='fengli'>
+
+  <view >
+     <image class='fl' src='https://gd4.alicdn.com/imgextra/i3/0/T1WhKTFqdaXXXXXXXX_!!0-item_pic.jpg'></image>
+     <view class='jieshao'>墨西哥进口牛油果</view>
+
+     <view class='price'>
+     <view class='money'>￥49.8</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://img.alicdn.com/imgextra/i3/1910146537/TB2idRenDJYBeNjy1zeXXahzVXa_!!1910146537.jpg_430x430q90.jpg'></image>
+     <view class='jieshao'>山东久红瑞甜瓜</view>
+
+     <view class='price'>
+     <view class='money'>￥39.8</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+
+<view class='fengli'>
+
+  <view >
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t16339/68/2678788614/310976/2d85fdc6/5abc5b61Ncdf85f89.jpg'></image>
+     <view class='jieshao'>国产山东美早车厘子</view>
+
+     <view class='price'>
+     <view class='money'>￥109</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t13336/154/1955807966/441379/545b2df5/5a4c6871Nf1d6cdd9.jpg'></image>
+     <view class='jieshao'>大金煌芒果2个装</view>
+
+     <view class='price'>
+     <view class='money'>￥39.8</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+
+<view class='fengli'>
+
+  <view >
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t15349/224/505845860/293808/e78a70af/5a30d585Na567476c.jpg'></image>
+     <view class='jieshao'> 进口厄瓜多尔皇帝蕉</view>
+
+     <view class='price'>
+     <view class='money'>￥29.9</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t19249/127/306201889/369003/eb321f53/5a69a305N5c474595.jpg'></image>
+     <view class='jieshao'>台湾金钻凤梨1个装 </view>
+
+     <view class='price'>
+     <view class='money'>￥41.9</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+<view class='fengli'>
+
+  <view >
+     <image class='fl' src='https://gd1.alicdn.com/imgextra/i4/3853637709/TB2Si3sfbSYBuNjSspfXXcZCpXa_!!3853637709.jpg'></image>
+     <view class='jieshao'> 台湾进口红心芭乐</view>
+
+     <view class='price'>
+     <view class='money'>￥29.9</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://img.alicdn.com/imgextra/i1/1910146537/TB2RX4oihSYBuNjSsphXXbGvVXa_!!1910146537.jpg_430x430q90.jpg'></image>
+     <view class='jieshao'>进口 华盛顿红蛇果 </view>
+
+     <view class='price'>
+     <view class='money'>￥41.9</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+<view class='fengli'>
+
+  <view >
+     <image class='fl' src='https://img.alicdn.com/imgextra/i1/1910146537/TB26uqLiNSYBuNjSsphXXbGvVXa_!!1910146537.jpg_430x430q90.jpg'></image>
+     <view class='jieshao'> 泰国进口龙眼</view>
+
+     <view class='price'>
+     <view class='money'>￥29.9</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t12676/119/1205370602/382503/59dc7dfa/5a1cdf55N07bf68ec.jpg'></image>
+     <view class='jieshao'>新鲜牛奶草莓</view>
+
+     <view class='price'>
+     <view class='money'>￥79.9</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+<view class='fengli'>
+
+  <view >
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t18982/60/2023255931/192793/8c1133bb/5adfdcf6N9dcc83e4.jpg'></image>
+     <view class='jieshao'>大兴庞各庄御瓜西瓜</view>
+
+     <view class='price'>
+     <view class='money'>￥29.9</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://img.alicdn.com/imgextra/i1/1910146537/TB2ZJFMilmWBuNkSndVXXcsApXa_!!1910146537.jpg_430x430q90.jpg'></image>
+     <view class='jieshao'>智利无籽黑提</view>
+
+     <view class='price'>
+     <view class='money'>￥79.9</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+
+</view>
+
+
+

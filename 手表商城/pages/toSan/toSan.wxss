@@ -1,0 +1,21 @@
+/* pages/toSan/toSan.wxss */
+.yi{
+  width: 100%;
+  height: 830rpx;
+}
+.er{
+  width: 100%;
+  height: 720rpx;
+}
+.san{
+  width: 100%;
+  height: 810rpx;
+}
+.si{
+  width: 100%;
+  height: 650rpx;
+}
+.wu{
+  width: 100%;
+  height: 780rpx;
+}

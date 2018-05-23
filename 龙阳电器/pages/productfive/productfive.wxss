@@ -1,0 +1,13 @@
+/* pages/productfive/productfive.wxss */
+.IMG{
+  width: 100%
+}
+.textBox{
+  width: 100%;
+  margin: 50rpx auto
+}
+.FONT{
+  display: inline;
+  font-weight: bolder;
+  
+}

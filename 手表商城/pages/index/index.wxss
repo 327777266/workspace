@@ -1,0 +1,272 @@
+/**index.wxss**/
+.contain{
+  height: 100%;  
+}
+
+/*轮播控件*/
+.swpier{
+  width: 100%;
+  height: 300rpx;
+}
+.slide-image{
+  width: 100%;
+  height: 300rpx;
+}
+
+
+
+.lingjuan{
+  width: 100%;
+  height: 100rpx;
+  margin: 10rpx 0 10rpx 0;
+}
+.liji_01{
+  width: 33%;
+  height: 100rpx;
+}
+.liji_02{
+  width: 33%;
+  height: 100rpx;
+}
+.liji_03{
+  width: 33%;
+  height: 100rpx;
+}
+
+
+
+
+.dakuang{
+  width: 100%;
+  height: 200rpx;
+
+}
+.zuo{
+  width: 25%;
+  height: 200rpx;
+  float: left;
+  
+}
+.zhong{
+  width: 37.5%;
+  height: 200rpx;
+  float: left;
+}
+.you{
+  width: 37.5%;
+  height: 200rpx;
+  float: left;
+}
+.dingji{
+  font-size: 30rpx;
+  color: #ccc;
+  text-align: center; 
+  margin-top: 6rpx; 
+}
+.shehua{
+  font-size: 20rpx;
+  color: #000;
+  margin-left: 20rpx;
+  text-align: center; 
+  margin-top: 16rpx;
+}
+
+
+
+
+.Video{
+  width: 100%;
+  height: 335rpx;
+}
+
+.search{  
+  width: 80%;  
+}  
+.search_arr {  
+  border: 1px solid #d0d0d0;  
+  border-radius: 10rpx;  
+  margin-left: 20rpx;  
+}  
+.search_arr input{  
+  margin-left: 60rpx;  
+  height: 60rpx;  
+  border-radius: 5px;  
+}  
+.bc_text {  
+  line-height: 68rpx;  
+  height: 68rpx;  
+  margin-top: 34rpx;  
+}  
+  
+.sousuo {  
+  margin-left: 15rpx;  
+  width: 15%;  
+  height: 60rpx; 
+  line-height: 60rpx;
+  text-align: center;  
+  border: 1px solid #d0d0d0;  
+  border-radius: 10rpx; 
+  
+}  
+.page_row{  
+  display: flex;  
+  flex-direction: row;
+  margin: 10rpx 0 15rpx 0
+}  
+.searchcion {  
+  margin: 10rpx 10rpx 10rpx 10rpx;  
+  position: absolute;  
+  left:25rpx;  
+  z-index: 2;  
+  width: 20px;  
+  height: 20px;  
+  text-align: center;  
+}  
+
+
+
+
+
+.men image{
+  width: 240rpx;
+  height: 200rpx;
+  float: left;
+  margin-left: 9rpx;
+}
+.maam image{
+  width: 240rpx;
+  height: 200rpx;
+  float: left;
+  margin-left: 9rpx;
+}
+.comprehensive image{
+  width: 240rpx;
+  height: 200rpx;
+  float: left;
+  margin-left: 9rpx;
+}
+
+.tu{
+  width: 50%;
+  height: 550rpx;
+  float: left;
+}
+.tu_01 image{
+  width: 400rpx;
+  height: 550rpx;
+
+}
+.ertu{
+  width: 50%;
+  height: 550rpx;
+  float: left;
+}
+.tu_02 image{
+  width: 365rpx;
+  height: 260rpx;
+  margin-top: 10rpx;
+
+}
+.tu_03 image{
+  width: 365rpx;
+  height: 260rpx;
+  margin-top: 10rpx;
+}
+.zonghe image{
+  width: 100%;
+  height: 500rpx;
+}
+.wenzi{
+  width: 100%;
+  margin-top: 20rpx;
+}
+.wenzi_01{
+  font-size: 30rpx;
+  text-align: center;
+  border-top: 1rpx solid #eee;
+}
+.wenzi_02{
+  font-size: 30rpx;
+  text-align: center;
+  color: red;
+}
+
+.ButtonSumit{
+  height: 55rpx
+}
+.ButtonSize{
+  height: 50rpx;
+  line-height: 50rpx;
+  color: #ccc
+}
+
+
+
+
+.original{
+  width: 100%;
+  height: 450rpx;
+}
+.zi{
+  font-size:40rpx;
+  margin-left: 55rpx;
+  font-weight: bold;
+  margin-top: 10rpx;
+  color: red;
+}
+.mu{
+  width: 100%;
+  font-size: 26rpx;
+  text-align: center;
+  color: #2b2b2b;
+  line-height: 50rpx;
+  margin-top: 10rpx;
+}
+
+.work{
+  width: 48.5%;
+  height: 800rpx;
+  float: left;
+  margin-top: 20rpx;
+  border: 1px solid #ccc;
+}
+.works{
+  width: 48.5%;
+  height: 800rpx;
+  float: right;
+  margin-top: 20rpx;
+  border: 1px solid #ccc;
+}
+.yi{
+  width: 96%;
+  height: 300rpx;
+  margin-left: 10rpx;
+  margin-top: 10rpx;
+}
+.jianjie{
+  width: 96%;
+  height: 80rpx;
+  font-size: 20rpx;
+  text-align: center;
+  margin-left: 10rpx;
+  margin-top: 5rpx;
+  
+}
+.gengduo_yi{
+  width: 100%;
+  height: 38rpx;
+  font-size: 33rpx;
+  color: #999;
+  clear:both;
+  text-align: right;
+  margin-bottom: 20rpx;
+}
+.gengduo_er{
+  width: 100%;
+  height: 38rpx;
+  font-size: 33rpx;
+  color: #999;
+  clear:both;
+  text-align: right;
+  margin-bottom: 20rpx;
+}

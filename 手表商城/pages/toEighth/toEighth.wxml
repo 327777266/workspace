@@ -1,0 +1,38 @@
+<view class='header'>
+
+<view class='all'>
+  <image class='pic'  mode='aspectFit' src='../../image/aimashi.jpg'></image>
+   <view class='text'>H HOUR HH1.110.212/4835</view> 
+
+<view class='textone'>
+   <view class='texttwo'>69300</view>
+   <view class='textsele'>HK$67300</view>
+   <view class='textthree'>暂无售价</view>
+</view>
+
+<view class='wenzi'>
+    <view class='wenzifour'>国内价格</view>
+    <view class='wenzifive'>香港售价</view>
+    <view class='wenzisix'>欧洲售价</view>
+</view>
+    <view class='color'></view>
+</view>
+
+<view class='picture'>
+<image  class='picone'  src='../../image/aimashi1.png'></image>
+</view>
+
+<view class='picturetwo'>
+<image  class='pictwo'  src='../../image/aimashi2.png'></image>
+</view>
+
+<view class='picturethree'>
+<image  class='picthree'  src='../../image/aimashi3.png'></image>
+</view>
+
+<view class='picturefour'>
+<image  class='picfour'  src='../../image/aimashi4.png'></image>
+</view>
+
+</view>
+

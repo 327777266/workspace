@@ -1,0 +1,9 @@
+/* pages/Introduction/Introduction.wxss */
+.images{
+  width: 100%;
+  height: 320rpx;
+}
+.wenzi{
+  width: 100%;
+  text-align: center;
+}

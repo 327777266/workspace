@@ -1,0 +1,78 @@
+<view class='body' bindtap='dianji'>
+<image class='pic' src='/image/banner1.png'></image>
+
+<view class='button'>
+<icon class='search' type='search' size='21'></icon>
+<input class='input' type='text' confirm-type="search"  placeholder="搜索产品" placeholder-style="font-size:32rpx; text-indent:40rpx;"></input>
+</view>
+
+  <view class='feingli'>
+   <view class='color'>
+     <image class='fl' mode='aspectFit' src='http://img10.360buyimg.com/n1/jfs/t17740/327/925846464/279298/4e2c0a11/5ab0d753N246cf77e.jpg.dpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>禾新奇士脐橙</view>
+   </view>
+     <view class='price'>
+     <view class='money'>￥39.9</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+    
+  </view>
+  
+
+   <view class='feingli'>
+   <view class='color'>
+     <image class='fl' mode='aspectFit' src='https://img14.360buyimg.com/n0/jfs/t2977/138/2111174449/437408/68c9c579/579c50c0N9017e5a3.jpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>海南红心木瓜</view>
+   </view>
+     <view class='price'>
+     <view class='money'>￥39.9</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+    
+  </view>
+  
+
+  <view class='feingli'>
+   <view class='color'>
+     <image class='fl' mode='aspectFit' src='/image/pic.png'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>鲜丰玉麒麟西瓜</view>
+   </view>
+     <view class='price'>
+     <view class='money'>￥39.9</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+    
+  </view>
+  
+  <view class='feingli'>
+   <view class='color'>
+     <image class='fl' mode='aspectFit' src='/image/pic1.jpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>金尧榴莲</view>
+   </view>
+     <view class='price'>
+     <view class='money'>￥79.0</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+    
+  </view>
+
+
+  <view class='feingli'>
+   <view class='color'>
+     <image class='fl' mode='aspectFit' src='/image/pic2.jpg'></image>
+     <view class='jianbian'>仅剩00时23分09秒</view>
+     <view class='jieshao'>云南夏黑葡萄</view>
+     </view>
+     <view class='price'>
+     <view class='money'>￥49.9</view>
+     <view class='moneyone'>立即抢购</view>
+     </view>
+    
+  </view>
+
+</view>
+

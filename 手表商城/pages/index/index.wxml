@@ -1,0 +1,89 @@
+<!--index.wxml-->
+<swiper class='swiper' indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image"  mode='aspectFill'/>
+    </swiper-item>
+  </block>
+</swiper>
+
+
+
+<view class='lingjuan'>
+  <image class='liji_01' src='/image/card1.gif'></image>
+  <image class='liji_02' src='/image/card2.gif'></image>
+  <image class='liji_03' src='/image/card4.gif'></image>
+</view>
+
+
+<view class='dakuang'>
+  <view class='zuo'>
+    <view class='dingji'>顶级：</view>
+    <view class='dingji'>奢华：</view>
+    <view class='dingji'>豪华：</view>
+    <view class='dingji'>时尚：</view>
+  </view>
+  <view class='zhong'>
+    <view class='shehua' bindtap="toFifth">百达翡丽</view>
+    <view class='shehua' bindtap="toFirst">劳力士</view>
+    <view class='shehua' bindtap="toFourth">万宝龙</view>
+    <view class='shehua' bindtap="toSecond">斯沃琪</view>       
+  </view>
+  <view class='you'>
+    <view class='shehua' bindtap="toSixth">朗格</view>
+    <view class='shehua' bindtap="toThird">欧米茄</view>
+    <view class='shehua' bindtap="toSeventh">帝舵</view>
+    <view class='shehua' bindtap="toEighth">爱马仕</view>       
+  </view>  
+</view>
+
+<video class='Video' src='http://video.xbiao.com/video/20180504bvlgari.mp4'  objectFit="fill"  ></video>
+
+
+
+
+
+
+<view class='zi'>精选作业</view>
+<view class='work'>
+  <view class='zuobian' bindtap="Buy">
+    <image class='yi' src='/image/1.jpg'></image>
+    <view class='jianjie'>购买唯一标准就是眼缘 入手豪利时潜水青铜表</view>
+  </view>
+  <view class='youbian' bindtap="Riches">
+    <image class='yi' src='/image/2.jpg'></image>
+    <view class='jianjie'>富贵黄征服了不少人 镜头下的劳力士黄金迪</view>
+  </view>
+</view>
+<view class='works'>
+  <view class='zuobian' bindtap="Fifth">
+    <image class='yi' src='/image/3.jpg'></image>
+    <view class='jianjie'>五分钟的无谓挣扎 积家北宸蓝盘入手记</view>
+  </view>
+  <view class='youbian' bindtap="Heaven">
+    <image class='yi' src='/image/4.jpg'></image>
+    <view class='jianjie'>天地良心珀实至名归 宝珀五十噚上手测评</view>
+  </view>  
+</view>
+
+<view class='gengduo_er' bindtap="Conscience">更多>></view>
+
+
+
+<view class='original'>
+  <view class='zi'>原创新闻</view>
+  <view class='mu' bindtap="toYi">日常实用功能 三款年历腕表推荐</view>
+  <view class='mu' bindtap="toEr">为母则“刚”，三款万元钢表送给母亲</view>
+  <view class='mu' bindtap="toSan">“大品牌”统治瑞士制表市场</view>
+  <view class='mu' bindtap="toSi">只想和你吃吃汉堡的伊斯坦堡</view>
+  <view class='mu' bindtap="toWu">经典巡礼 劳力士Ref.8171“Padellone”腕表</view>
+  <view class='mu' bindtap="toLiu">给你腕表的另一种可能 织物表带表款推荐</view>
+</view>
+
+<view class='gengduo_yi' bindtap="More">更多>></view>
+
+
+<view class='wenzi'>
+  <view class='wenzi_02'><text>技术支持：智盛科技</text></view>
+</view>

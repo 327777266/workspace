@@ -1,0 +1,58 @@
+
+
+.body{width: 100%;
+  
+  background-color: #f8f8f8;
+
+}
+
+.fengli{width: 100%;
+   
+      display: flex;
+      flex-direction: row;
+      margin-top: 20rpx;
+
+}
+
+
+  
+
+.fl{width: 340rpx;
+    height: 340rpx;
+    margin-left: 20rpx;
+}
+
+
+
+.jieshao{width: 320rpx;
+   font-size: 30rpx;
+   padding-left: 20rpx;
+   margin-top: 5rpx;
+   background-color: white;
+   margin-left: 20rpx;
+   margin-top: -9rpx;
+   line-height: 70rpx;
+}
+
+.price{width: 340rpx;
+      height:80rpx;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      margin-top: 10rpx;
+      background-color: white;
+      margin-left: 20rpx;
+      margin-top: -2rpx;
+}
+
+.money{width: 250rpx;
+  height: 70rpx;
+  color: red;
+ 
+}
+
+
+.moneyone{width: 50rpx;
+  height: 50rpx;
+ 
+}

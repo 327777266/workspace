@@ -1,0 +1,45 @@
+/* pages/Heaven/Heaven.wxss */
+.yi{
+  width: 100%;
+  height: 550rpx;
+}
+.er{
+  width: 100%;
+  height: 380rpx;
+}
+.san{
+  width: 100%;
+  height: 650rpx;
+}
+.si{
+  width: 100%;
+  height: 930rpx;
+}
+.wu{
+  width: 100%;
+  height: 930rpx;
+}
+.liu{
+  width: 100%;
+  height: 930rpx;
+}
+.qi{
+  width: 100%;
+  height: 930rpx;
+}
+.ba{
+  width: 100%;
+  height: 930rpx;
+}
+.jiu{
+  width: 100%;
+  height: 930rpx;
+}
+.shi{
+  width: 100%;
+  height: 930rpx;
+}
+.shiyi{
+  width: 100%;
+  height: 930rpx;
+}

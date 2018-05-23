@@ -1,0 +1,155 @@
+.container{
+  width: 100%;
+  background-color: #eee;
+}
+/* 顶部 */
+.banner{
+  width: 100%;
+  height: 320rpx;
+}
+.INPUT{
+  position: relative;
+ 
+}
+.input_name{
+position: absolute;
+margin-top: -110rpx;
+margin-left: 110rpx;
+width: 100%;
+
+}
+
+.input_value{
+  background-color: white;
+  width: 70%;
+  border-radius:10rpx; 
+  opacity: 0.5;
+  color: #666666;
+  font-size: 30rpx;
+  height: 70rpx;
+ 
+}
+
+
+/* 导航 */
+
+.body{
+  width: 98%;
+  margin: 10rpx auto;
+ 
+}
+
+.tab{
+
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ background-color: white;
+ padding: 10rpx 0;
+}
+.pic{
+  width: 100rpx;
+  height: 100rpx;
+}
+
+.tab_text{
+  font-size: 30rpx;
+  text-align: center;
+  color: #666666;
+}
+
+.rush{
+  background-color: white;
+  margin: 20rpx 0;
+}
+.rush_icon{
+  
+  display: flex;
+  justify-content: space-between;
+}
+.Time{
+  width: 60rpx;
+  height: 60rpx;
+  padding-left: 20rpx;
+}
+.rush_text{
+  color: #ff6600;
+  font-size: 45rpx;
+  font-weight: bold;
+}
+.rush_pic{
+  display: flex;
+  padding-top: 10rpx;
+}
+
+.More{
+  width: 40rpx;
+  height: 40rpx;
+  padding-top: 10rpx;
+  margin-right: 20rpx;
+}
+
+.rush_list{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30rpx;
+  
+ 
+}
+
+.PIC1{
+  width: 230rpx;
+  height: 240rpx;
+}
+
+.rush_list_one{
+  border-right: 1rpx solid #eee;
+   margin-bottom: 30rpx;
+}
+
+.rush_list_text1{
+font-size: 28rpx;
+font-weight: bold;
+text-align: center
+}
+
+.rush_list_text2{
+ color: red;
+ text-align: center;
+}
+
+.rush_list_text3{
+  color: #afb0af;
+  font-size: 25rpx;
+  text-align: center;
+  text-decoration:line-through;
+}
+
+.mod_li{
+  margin-bottom: -8rpx;
+}
+.mod_pic1{
+  width: 100%;
+  height: 200rpx;
+}
+.mod_pic2{
+  width: 100%;
+  height: 300rpx;
+}
+
+.mod_pic3{
+  width: 100%;
+  height: 300rpx;
+  margin-top: 10rpx;
+}
+
+.mod_list{
+  
+  display: flex;
+  justify-content: space-between;
+}
+
+.mod_pic4{
+width: 230rpx; 
+height: 360rpx; 
+}

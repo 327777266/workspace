@@ -1,0 +1,121 @@
+.body{width: 100%;
+        background-color: #f8f8f8;}
+
+.fengli{width: 100%;
+      
+}
+
+
+.fl{width:100%;
+    height: 530rpx;
+    background-color: white;
+}
+
+.jianbian {
+   width:94%;
+   height: 40px;
+   background: linear-gradient(to right, #eb5d55 ,#ef928f );
+   margin-top: -10rpx;
+   color: white;
+   font-size: 35rpx;
+   text-align: left;
+   line-height: 80rpx;
+   padding-left: 50rpx;
+}
+
+.color{width: 100%;
+      background-color: white;
+  
+}
+
+.jieshao{
+   font-size: 30rpx;
+   width:94%;
+   height: 40px;
+  line-height: 90rpx;
+   padding-left: 50rpx;
+   background-color:white;
+}
+
+.price{width: 100%;
+      height:50rpx;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      background-color: white;
+      margin-top: 20rpx;
+}
+
+.money{width: 90%;
+  height: 70rpx;
+  color: red;
+  line-height: 60rpx;
+  margin-left: 40rpx;
+  border-bottom: 1px solid gainsboro;
+  font-size: 40rpx;
+ 
+}
+.howmuch{width: 45%;
+  height: 50rpx;
+  color:grey;
+  font-size: 28rpx;
+  line-height: 30rpx;
+  margin-left: 22rpx;
+}
+
+
+.howmuchone{width: 40%;
+  height:50rpx;
+  color: grey;
+  font-size: 28rpx;
+  line-height: 30rpx;
+}
+
+.priceone{width: 100%;
+      height:70rpx;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      background-color: white;
+      margin-top: 20rpx;
+}
+
+
+.chose{width:79%;
+  height: 70rpx;
+  color:black;
+  font-size: 28rpx;
+  line-height: 70rpx;
+  margin-left: 30rpx;
+}
+
+
+.choseone{width:10%;
+  height:30rpx;
+  color: grey;
+  margin-top: 20rpx;
+
+}
+
+.peisong{width:95%;
+  height: 70rpx;
+  color:black;
+  font-size: 28rpx;
+  line-height: 70rpx;
+  margin-left: 35rpx;
+}
+
+
+.goods{width:100%;
+    margin-top: 25rpx;
+}
+
+.picture{width: 95%;
+       height: 1000rpx;
+      margin-left: 20rpx;
+}
+.pictureone{width: 95%;
+       height: 1000rpx;
+      margin-left: 20rpx;
+      margin-top: -25rpx;
+}

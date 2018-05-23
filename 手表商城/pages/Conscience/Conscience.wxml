@@ -1,0 +1,7 @@
+<!--pages/Conscience/Conscience.wxml-->
+<view class='tu'>
+  <image class='yi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/eoXOeUPS5uXiRDIZhhg2yigw7Pxzdz.png'></image>
+  <image class='er' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/y803fV9zo9Vf99990YE99vss0Ro230.png'></image>
+  <image class='san' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/vxqFPQj771sx7lscssl4fZ52FS71s1.png'></image>
+  <image class='si' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/Yz2Th4Ps3ZfBfPiB5Bv5tRBpDjH2ie.png'></image>
+</view>

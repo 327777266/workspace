@@ -1,0 +1,59 @@
+<!-- index 首页 -->
+
+<!-- 轮播 -->
+<view class='header'>
+<swiper indicator-dots='true' autoplay='true' circular='true'>
+  <block wx:for="{{imgUrls}}">
+  <swiper-item>
+    <image src='{{item}}' class='swiperImages' ></image>
+  </swiper-item>
+  </block>
+</swiper>
+
+<!-- 导航 -->
+<view class='NAV'>
+  <view bindtap='toProduct'>
+  <image class='tabBox' src='/images/tab1.png'></image>
+  
+  </view>
+
+   <view bindtap='toSuccess'>
+  <image class='tabBox' src='/images/tab2.png'></image>
+  
+  </view>
+
+   <view bindtap='toInformation'>
+  <image class='tabBox' src='/images/tab3.png'></image>
+  
+  </view>
+
+   <view bindtap='toHonor'>
+  <image class='tabBox' src='/images/tab4.png'></image>
+  
+  </view>
+
+ <view bindtap='toAbout'>
+  <image class='tabBox' src='/images/tab5.png'></image>
+  
+  </view>
+</view>
+
+ <!-- 设备介绍 -->
+
+<view class='body'>
+<view bindtap='calling'>
+<!-- <view class='information_name'>设备介绍</view> -->
+   <image class='information_image' src='/images/wap_01.jpg'></image>
+   <image class='information_call' src='/images/wap_02.jpg'></image>
+   <image class='information_image3' src='/images/wap_03.jpg'></image>
+   <image class='information_call' src='/images/wap_02.jpg'></image>
+   <image class='information_image5' src='/images/wap_05.jpg'></image>
+   <image class='information_call' src='/images/wap_02.jpg'></image>
+   <image class='information_image3' src='/images/wap_07.jpg'></image>
+   <image class='information_call' src='/images/wap_02.jpg'></image>
+   <image class='information_image8' src='/images/wap_08.jpg'></image>
+</view>
+
+</view>
+
+</view>

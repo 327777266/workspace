@@ -1,0 +1,34 @@
+<view class='all' bindtap='dianji'>
+
+<view >
+<image class='banner'  src='/image/banner.png'></image>
+
+</view>
+
+
+<view >
+<image class='pic5'  src='/image/pic3.png'></image>
+
+</view>
+
+<view >
+<image class='pic5'  src='/image/pic4.png'></image>
+
+</view>
+
+<view >
+<image class='pic5'  src='/image/pic5.png'></image>
+
+</view>
+
+<view >
+<image class='pic5'  src='/image/pic6.png'></image>
+
+</view>
+
+<view >
+<image class='pic7'  src='/image/pic7.png'></image>
+
+</view>
+
+</view>

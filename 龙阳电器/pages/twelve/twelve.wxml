@@ -1,0 +1,13 @@
+<!--pages/industryinformation/twelve/twelve.wxml-->
+<view class='shier'>
+
+  <view class='yi'>
+电锅炉</view>
+
+  <view class='uuu'>
+　　电锅炉也称电加热锅炉、电热锅炉，顾名思义，它是以电力为能源并将其转化成为热能，从而经过锅炉转换，向外输出具有一定热能的蒸汽、高温水或有机热载体的锅炉设备。</view>
+
+  <view class='uuu'>
+　　电锅炉本体主要由电锅炉钢制壳体、电脑控制系统、低压电气系统、电加热管、进出水管及检测仪表等组成。</view>
+
+</view>

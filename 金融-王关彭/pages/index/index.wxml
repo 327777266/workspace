@@ -1,0 +1,50 @@
+<!--index.wxml-->
+<swiper class='swiper' indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image"  mode='aspectFill'/>
+    </swiper-item>
+  </block>
+</swiper>
+
+
+    <view class="nav">
+      <view class='boxView' bindtap='Introduction'>
+        <image class='boxView image' src='/image/video.png' mode='aspectFit'></image>
+        <text class='boxView text'>介绍</text>
+      </view>
+      <view class='boxView' bindtap='Resources'>
+       <image class='boxView image' src='/image/zhuanlan.png' mode='aspectFit'></image>
+        <text class='boxView text'>资源</text>
+      </view>
+      <view class='boxView' bindtap='Service'>
+        <image class='boxView image' src='/image/customization.png' mode='aspectFit'></image>
+        <text class='boxView text'>服务</text>
+      </view>
+      <view class='boxView' bindtap='About'>
+        <image class='boxView image' src='/image/service.png' mode='aspectFit'></image>
+        <text class='boxView text'>关于</text>
+      </view>        
+    </view>
+
+<view class='dakuang'>
+  <view class='Information'>行业资讯</view>
+  <view class='tupian'><image src='/image/0-1.png'></image></view>
+  <view class='tupian'><image src='/image/0-2.png'></image></view>
+  <view class='tupian'><image src='/image/0-3.png'></image></view>
+  <view class='tupian'><image src='/image/0-4.png'></image></view>
+</view>
+
+
+<view class='hezuo'>
+  <view class='huoban'>合作伙伴</view>
+  <view class='tupian'><image src='/image/0-1.png'></image></view>
+  <view class='tupian'><image src='/image/0-2.png'></image></view>
+  <view class='tupian'><image src='/image/0-3.png'></image></view>
+</view>
+
+
+<view class='wenzi'>
+  <view class='wenzi_02'><text>技术支持：智盛科技</text></view>
+</view>

@@ -1,0 +1,21 @@
+/* pages/toWu/toWu.wxss */
+.yi{
+  width: 100%;
+  height: 330rpx;
+}
+.er{
+  width: 100%;
+  height: 570rpx;
+}
+.san{
+  width: 100%;
+  height: 190rpx;
+}
+.si{
+  width: 100%;
+  height: 570rpx;
+}
+.wu{
+  width: 100%;
+  height: 250rpx;
+}

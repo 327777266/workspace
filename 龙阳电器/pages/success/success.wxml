@@ -1,0 +1,84 @@
+<!--pages/success/success.wxml 成功案例-->
+<view class='all'>
+<view class='product_info'>共14条信息</view>
+   <view class='product_body'>
+   
+   <view bindtap='Success1'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/news/CD9BC13C232F3EB2017A959AD95FCE32.jpg'></image>
+   <view class='product_font'>通化康元生物科技</view>
+   </view>
+   
+      <view bindtap='Success2'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/news/3A950321AFD3315FFCE3EF780B9C67D5.jpg'></image>
+   <view class='product_font'>松原加油站</view>
+   </view>
+
+      <view bindtap='Success3'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/news/E1A59C6248727E9DBC3C0D38DC3775BA.jpg'></image>
+   <view class='product_font'>长春客车内饰件</view>
+   </view>
+
+         <view bindtap='Success4'> 
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/news/5902957206C0DE1BE25146A542314E99.jpg'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+
+         <view bindtap='Success5'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/news/1AD708F9EDF186833EC953A350F125DE.jpg'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+
+
+
+   <view bindtap='Success6'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/news/E61CE62BB67983E4EEE186B5F5F49DBE.jpg'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+   
+      <view bindtap='Success7'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/news/6FCCDBD8820FA11505406BF88D2F55B0.jpg'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+
+      <view bindtap='Success8'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/news/12F51EFD41E928ECBED76434BBA337E6.jpg'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+
+         <view bindtap='Success9'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/isClass/pic/20170803145918-55985748.JPG'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+
+         <view bindtap='Success10'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/isClass/pic/20170803145918-180457056.JPG'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+
+
+   <view bindtap='Success11'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/isClass/pic/20170803145918-1141505820.JPG'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+   
+      <view bindtap='Success12'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/isClass/pic/20170803145918-529206600.JPG'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+
+      <view bindtap='Success13'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/isClass/pic/20170803145918-736626852.JPG'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+
+         <view bindtap='Success14'>
+   <image class='product_images'  src='http://ccslydq.com/wap/Upload/isClass/pic/20170803145917-414361584.JPG'></image>
+   <view class='product_font'>案例展示</view>
+   </view>
+
+
+
+   
+   </view>
+</view>
+

@@ -1,0 +1,12 @@
+<!--pages/productthree/productthree.wxml-->
+<image class='IMG' src='http://www.ccslydq.com/upfile/isClass/pic/20170814141433-73269722890108816.jpg'></image>
+<image class='IMG' src='http://www.ccslydq.com/userfiles/images/20170818100455-97177207237109536.jpg'></image>
+<view class='textBox'>
+
+
+<view>  <view class='FONT'>核心部件</view>：采用直管式半导体加热器，水从加热器内部循环加热 </view>
+<view>  <view class='FONT'>配置</view>：配备循环水箱和循环泵控制箱 </view>
+<view> <view class='FONT'> 箱体</view>：采用国内普通电柜工艺制作 </view>
+
+
+</view>

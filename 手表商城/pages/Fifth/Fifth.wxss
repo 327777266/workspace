@@ -1,0 +1,29 @@
+/* pages/Fifth/Fifth.wxss */
+.yi{
+  width: 100%;
+  height: 550rpx;
+}
+.er{
+  width: 100%;
+  height: 800rpx;
+}
+.san{
+  width: 100%;
+  height: 1000rpx;
+}
+.si{
+  width: 100%;
+  height: 1100rpx;
+}
+.wu{
+  width: 100%;
+  height:1000rpx;
+}
+.liu{
+  width: 100%;
+  height:1000rpx;
+}
+.qi{
+  width: 100%;
+  height: 1000rpx;
+}

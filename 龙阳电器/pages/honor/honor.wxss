@@ -1,0 +1,25 @@
+/* pages/honor/honor.wxss */
+
+.all{
+  width: 95%;
+  margin: 0 auto;
+  
+}
+.product_info{
+  text-indent: 10rpx;
+  border-left: 10rpx solid #416eed;
+  margin: 50rpx 0
+}
+.product_body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around
+}
+.product_images{
+  width: 340rpx;
+  height: 250rpx
+}
+.product_font{
+  text-align: center;
+  margin-bottom: 30rpx
+}

@@ -1,0 +1,15 @@
+<!--pages/Riches/Riches.wxml-->
+<view class='tu'>
+  <image class='yi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/L8L6LlZJLAsMLLA5Dkl5Fma5FL8Jjj.png'></image>
+  <image class='er' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/G0I7M9vM59MMknkxVNuwFmvMF20n3z.png'></image>
+  <image class='san' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/qKjupMMh5f2LFuHIpHOKqo52Ph2UAi.png'></image>
+  <image class='si' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/nUq56c533e5q9ouyZ5E3c345qcyr6o.jpg'></image>
+  <image class='wu' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/vnc1KKR265laDKIUAUI56U5W5a5W55.jpg'></image>
+  <image class='liu' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/fW76eZIHqIEh77Hw868iI6uzMqH615.jpg'></image>
+  <image class='qi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/ITgSQZaaQasKs722l2S99g9K93TS0l.jpg'></image>
+  <image class='ba' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/AtwQVAh413q9vUWtT34p4wS51934V9.jpg'></image>
+  <image class='jiu' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/v8MWHlvcV9mIDaZADDhW8r02w9dXfK.jpg'></image>
+  <image class='shi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/UJ4cT3XRJYxCNJ2k4N9vycqnk9xpqC.jpg'></image>
+  <image class='shiyi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/q2FOoBZBk0sLsOsQ0lqOItILSIn4oI.jpg'></image>
+  <image class='shier' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/EK1KhOTSZ6NHHNNnUnp99hPp5ssHSK.jpg'></image>
+</view>

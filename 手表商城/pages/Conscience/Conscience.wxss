@@ -1,0 +1,17 @@
+/* pages/Conscience/Conscience.wxss */
+.yi{
+  width: 100%;
+  height: 600rpx;
+}
+.er{
+  width: 100%;
+  height: 600rpx;
+}
+.san{
+  width: 100%;
+  height: 500rpx;
+}
+.si{
+  width: 100%;
+  height: 400rpx;
+}

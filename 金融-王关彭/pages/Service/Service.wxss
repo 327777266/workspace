@@ -1,0 +1,77 @@
+/* pages/Service/Service.wxss */
+.images{
+  width: 100%;
+  height: 320rpx;
+}
+
+.view{
+  width: 100%;
+  height: 350rpx;
+  margin-top: 15rpx;
+  background-color: #fefcfd;
+  border-bottom: solid 1px #000;
+}
+.view1{
+  width: 48%;
+  height: 180rpx;
+  float: left;
+  margin-left: 15rpx;
+}
+.view_00 image{
+  width: 150rpx;
+  height: 150rpx;
+  float: left;
+}
+.view_01{
+  font-size: 32rpx;
+  text-align: center;
+  margin-top: 20rpx;
+}
+.view_02{
+  font-size: 26rpx;
+  text-align: center;
+  margin-top: 40rpx;
+}
+
+.tuicun{
+  clear:both;
+  width: 100%;
+  height: 60rpx;
+  font-size: 34rpx;
+  font-weight:bold;
+  padding-left: 15rpx;
+  border-bottom: solid 1px #000;
+}
+.xianlu{
+  width: 100%;
+  height: 50rpx;
+  margin-top: 25rpx;
+}
+.xianlu_01{
+  margin-left: 15rpx;
+  float: left;
+  font-size: 30rpx;
+}
+.xianlu_02 image{
+  width: 35rpx;
+  height: 35rpx;
+  float: left;
+  margin-top: 6rpx;
+  margin-left: 30rpx;
+}
+.xianlu_03{
+  float: left;
+  color: red;
+  font-size: 30rpx;
+  margin-left: 250rpx;
+}
+.xianlu_04{
+  float: left;
+  font-size: 30rpx;
+}
+.xianlu_05 image{
+  width: 35rpx;
+  height: 35rpx;
+  float: right;
+  margin-top: 4rpx;
+}

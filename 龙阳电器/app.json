@@ -1,0 +1,71 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/introduction/introduction",
+    "pages/contact/contact",
+    "pages/product/product",
+    "pages/success/success",
+    "pages/information/information",
+    "pages/about/about",
+    "pages/honor/honor",
+    "pages/productone/productone",
+    "pages/producttwo/producttwo",
+    "pages/productthree/productthree",
+    "pages/productfour/productfour",
+    "pages/productfive/productfive",
+    "pages/success1/success1",
+    "pages/success2/success2",
+    "pages/success3/success3",
+    "pages/success4/success4",
+    "pages/success5/success5",
+    "pages/success6/success6",
+    "pages/success7/success7",
+    "pages/success8/success8",
+    "pages/success9/success9",
+    "pages/success10/success10",
+    "pages/success11/success11",
+    "pages/success12/success12",
+     "pages/success13/success13",
+     "pages/success14/success14",
+     "pages/one/one",
+    "pages/two/two",
+    "pages/three/three",
+    "pages/four/four",
+    "pages/five/five",
+    "pages/six/six",
+    "pages/seven/seven",
+    "pages/eight/eight",
+    "pages/nine/nine",
+    "pages/ten/ten",
+    "pages/eleven/eleven",
+    "pages/twelve/twelve" 
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "长春市龙阳电器设备有限公司",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "borderStyle": "white",
+    "backgroundColor": "#fff",
+    "color": "#c0bfbe",
+    "selectedColor": "#3d6ae7",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "images/icon1.png",
+      "selectedIconPath": "images/icon1s.png"
+    },
+   
+    {
+      "pagePath": "pages/contact/contact",
+      "text": "联系我们",
+    "iconPath": "images/icon3.png",
+    "selectedIconPath": "images/icon3s.png"
+    }
+    ]
+  }
+}

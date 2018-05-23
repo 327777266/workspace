@@ -1,0 +1,14 @@
+<!--pages/productfour/productfour.wxml-->
+<image class='IMG' src='http://www.ccslydq.com/upfile/isClass/pic/20170814141433-65802295552566648.jpg'></image>
+<image class='IMG' src='http://www.ccslydq.com/userfiles/images/20170824145158-85252032382413744.jpg'></image>
+<view class='textBox'>
+
+
+<view> <view class='FONT'>第二代产品</view>：性能与质量有了飞跃的提升</view>
+<view> <view class='FONT'>核心部件</view>：采用了公司自主研发的半导体加热器节能器，电热转换效率比第一代产品提高了15%，企业因此获得了该项技术的发明专利。 </view>
+<view> <view class='FONT'>内在配置</view>：完善了电锅炉的保护装置，增加了水、电隔离装置，电锅炉运行更有安全保障。 </view>
+<view><view class='FONT'>摒弃落后配置</view>：将循环泵控制系统与电锅炉电控系统集成在电锅炉内一体控制，从而取消了传统的循环水箱和循环泵控制箱，既降低了用户安装成本，也节省安装空间。
+</view>
+<view><view class='FONT'>箱体</view>：采用了世界最先进的德国威图电柜工艺制作，不仅耐用、而且美观。</view>
+
+</view>

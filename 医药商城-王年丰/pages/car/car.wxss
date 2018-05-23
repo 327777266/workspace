@@ -1,0 +1,51 @@
+/* pages/car/car.wxss */
+
+
+
+#nothing{
+ display: flex;
+ justify-content: center;
+ margin-top: 400rpx;
+}
+.Index{
+  color: #2dae99;
+  font-size: 40rpx;
+  font-weight: bold;
+}
+
+#foot {
+  line-height: 100rpx;
+  width: 750rpx;
+  height: 100rpx;
+  position: fixed;
+  bottom: 1px ;
+  clear: both;
+  background: white;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+#all {
+  padding-left: 20rpx;
+  float: left;
+ 
+}
+
+.ctr {
+  position: relative;
+  top: 7rpx;
+}
+
+#total {
+  padding-right: 10rpx;
+  float: right;
+}
+
+#submit {
+  height: 100rpx;
+  margin: 0px;
+  padding: 0rpx 45rpx 0rpx 40rpx;
+  float: right;
+  color: white;
+  background: #2dae99;
+}

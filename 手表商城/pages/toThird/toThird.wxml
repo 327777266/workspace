@@ -1,0 +1,37 @@
+<view class='header'>
+
+<view class='all'>
+  <image class='pic'  mode='aspectFit' src='https://www.omegawatches.cn/media/catalog/product/cache/f95da71315bcb39ac61198f4cc713eb4bd257115efd9d22080ae8b12f2fed529/s/o/soldier-22012402001001.png'></image>
+  <!-- <view class='text'> 超级复杂功能计时 6104G-001</view> -->
+
+<view class='textone'>
+   <view class='texttwo'>36500</view>
+   <view class='textsele'>暂无售价</view>
+   <view class='textthree'>暂无售价</view>
+</view>
+
+<view class='wenzi'>
+    <view class='wenzifour'>国内价格</view>
+    <view class='wenzifive'>香港售价</view>
+    <view class='wenzisix'>欧洲售价</view>
+</view>
+    <view class='color'></view>
+</view>
+ 
+<view class='picture'>
+<image  class='picone'  src='../../image/oumijia1.png'></image>
+</view>
+
+<view class='picturetwo'>
+<image  class='pictwo'  src='../../image/oumijia2.png'></image>
+</view>
+
+<view class='picturethree'>
+<image  class='picthree'  src='../../image/oumijia3.png'></image>
+</view>
+
+<view class='picturefour'>
+<image  class='picfour'  src='../../image/oumijia4.png'></image>
+</view> 
+
+</view>

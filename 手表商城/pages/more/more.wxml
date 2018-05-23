@@ -1,0 +1,8 @@
+<!--pages/more/more.wxml-->
+<view class='tu'>
+  <image class='yi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/lK8owjD8QFQt3g8TK8nM68qFH3Bg01.png'></image>
+  <image class='er' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/HwF736xOXPXLL9R7i9O7swsZfSwRrX.png'></image>
+  <image class='san' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/n6t66bZUBYYJcB6X8x8j84jbgmo6xX.png'></image>
+  <image class='si' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/AB3mIwf7X3ow9AMYIp1MI9B6ZI7Bl1.png'></image>  
+</view>
+

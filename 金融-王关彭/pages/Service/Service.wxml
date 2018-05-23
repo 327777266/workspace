@@ -1,0 +1,58 @@
+<!--pages/Service/Service.wxml-->
+<view class='tupian'>
+  <image class='images' src='https://i02piccdn.sogoucdn.com/ab273081de954181'></image>
+</view>
+
+
+<view class='view'>
+  <view class='view1' bindtap='One1'>
+    <view class='view_00'><image src='/image/tubiao1.png'></image></view>
+    <view class='view_01'>我要发车</view>
+    <view class='view_02'>查询发车价格</view>
+  </view>
+  <view class='view1' bindtap='Two1'>
+    <view class='view_00'><image src='/image/tubiao2.png'></image></view>
+    <view class='view_01'>我的运单</view>
+    <view class='view_02'>查询历史运单</view>
+  </view>
+  <view class='view1'><navigator bindtap='calling'>
+    <view class='view_00'><image src='/image/tubiao3.png'></image></view>
+    <view class='view_01'>联系调度</view>
+    <view class='view_02'>拨打调度电话</view>
+    </navigator>
+  </view>
+  <view class='view1' bindtap='Three1'>
+    <view class='view_00'><image src='/image/tubiao4.png'></image></view>
+    <view class='view_01'>常见问题</view>
+    <view class='view_02'>解答业务疑问</view>
+  </view>
+</view>
+<view class='tuicun'>推存路线</view>
+<view class='xianlu'>
+  <view class='xianlu_01'>广东广州-广西南宁</view>
+  <view class='xianlu_02'><image src='/image/te.png'></image></view>
+  <view class='xianlu_03'>1000</view>
+  <view class='xianlu_04'>元起</view>
+  <view class='xianlu_05'><image src='/image/bigmore.png'></image></view>
+</view>
+<view class='xianlu'>
+  <view class='xianlu_01'>广东广州-四川成都</view>
+  <view class='xianlu_02'><image src='/image/te.png'></image></view>
+  <view class='xianlu_03'>1900</view>
+  <view class='xianlu_04'>元起</view>
+  <view class='xianlu_05'><image src='/image/bigmore.png'></image></view>
+</view>
+<view class='xianlu'>
+  <view class='xianlu_01'>广东广州-江西南昌</view>
+  <view class='xianlu_02'><image src='/image/te.png'></image></view>
+  <view class='xianlu_03'>1200</view>
+  <view class='xianlu_04'>元起</view>
+  <view class='xianlu_05'><image src='/image/bigmore.png'></image></view>
+</view>
+<view class='xianlu'>
+  <view class='xianlu_01'>大连沈阳-陕西西安</view>
+  <view class='xianlu_02'><image src='/image/te.png'></image></view>
+  <view class='xianlu_03'>2100</view>
+  <view class='xianlu_04'>元起</view>
+  <view class='xianlu_05'><image src='/image/bigmore.png'></image></view>
+</view>

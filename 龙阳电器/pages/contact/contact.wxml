@@ -1,0 +1,20 @@
+<!--pages/contact/contact.wxml 联系我们-->
+
+<image class='IMG' src='/images/banner1.jpg'></image>
+<view class='Body'>
+<view class='header'>
+
+
+</view>
+<view class='contactInformation'>
+<image class='Icon'  src="/images/logo2.png" mode='aspectFit' ></image>
+<view class='Address' bindtap='openMap'>{{address}}</view>
+<image class='arrowrRight'  src="/images/arrowright.png" mode='aspectFit' ></image>
+<view class='Phone' bindtap='calling1'>{{Phone}}</view>
+<image class='arrowrRight3'  src="/images/arrowright.png" mode='aspectFit' ></image>
+<view><navigator bindtap='calling2'>{{call}}</navigator></view>
+<image class='arrowrRight2'  src="/images/arrowright.png" mode='aspectFit' ></image>
+</view>
+
+</view>
+

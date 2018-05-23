@@ -1,0 +1,19 @@
+/* pages/industryinformation/ten/ten.wxss */
+.shi{
+  width: 100%;
+}
+.yi{
+  font-size: 50rpx;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 30rpx;
+}
+.biaoti{
+  font-size: 38rpx;
+  font-weight: bold;
+  margin: 30rpx 0 30rpx 0;
+}
+.ttt{
+  font-size: 32rpx;
+  line-height: 55rpx;
+}

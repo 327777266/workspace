@@ -1,0 +1,54 @@
+
+<view class='fengli' bindtap='dianji'>
+
+  <view >
+     <image class='fl' src='https://imgqn4.fruitday.com/images/product_pic/2654/1/1-370x370-2654-P568PWC2.jpg'></image>
+     <view class='jieshao'>深井冰椰青（原箱）</view>
+
+     <view class='price'>
+     <view class='money'>￥39.8</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://imgqn3.fruitday.com/images/product_pic/3413/1/1-370x370-3413-F7F71XW5.jpg'></image>
+     <view class='jieshao'>儿童成长营养</view>
+
+     <view class='price'>
+     <view class='money'>￥213</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>
+
+
+
+<view class='fengli' bindtap='dianji'>
+
+  <view >
+     <image class='fl' src='https://img14.360buyimg.com/n0/jfs/t17980/312/1971465737/73841/286702e1/5adffb2bN1d4b35f8.jpg'></image>
+     <view class='jieshao'>猫山王榴莲泡泡</view>
+
+     <view class='price'>
+     <view class='money'>￥39.8</view>
+     <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+    
+  </view>
+
+  <view>
+     <image class='fl' src='https://imgqn3.fruitday.com/images/product_pic/3413/1/1-370x370-3413-F7F71XW5.jpg'></image>
+     <view class='jieshao'>儿童成长营养</view>
+
+     <view class='price'>
+     <view class='money'>￥213</view>
+      <image  class='moneyone' mode='aspectFit' src='/image/icon12.png'></image>
+     </view>
+
+  </view>
+
+</view>

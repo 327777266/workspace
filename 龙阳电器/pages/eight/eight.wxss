@@ -1,0 +1,14 @@
+/* pages/industryinformation/eight/eight.wxss */
+.ba{
+  width: 100%;
+}
+.yi{
+  font-size: 50rpx;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 30rpx;
+}
+.eee{
+  font-size: 32rpx;
+  line-height: 55rpx;
+}

@@ -1,0 +1,36 @@
+/* pages/address/address.wxss */
+.all{
+  width: 100%;
+  height: 1000rpx;
+  text-align: center;
+  
+}
+.add{
+margin-top: 400rpx;
+}
+.dian{
+  font-size: 30rpx;
+  color: #eee;
+}
+
+
+.footer{
+    line-height: 100rpx;
+  width: 100%;
+  height: 90rpx;
+  position: fixed;
+  bottom: 0 ;
+  clear: both;
+  background: white;
+ 
+}
+
+.foot{
+  float: left;
+  width: 100%
+}
+
+.foot button{
+ background-color: white;
+ color: #2dae99;
+}

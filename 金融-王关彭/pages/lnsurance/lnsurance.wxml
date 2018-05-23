@@ -1,0 +1,49 @@
+<!--pages/lnsurance/lnsurance.wxml-->
+<view class='tupian'>
+  <image class='images' src='https://i02piccdn.sogoucdn.com/ab273081de954181'></image>
+</view>
+
+<view class='sousuo'>
+  <image src='/image/1.png'></image>
+  <view class='wenzi'>车型品牌</view>
+  <input name='keyword' placeholder="商品搜索：输入关键字" type="text" maxlength="50" placeholder-style="color:#ccc"/>
+  <button form-type="submit" size="mini">搜索</button>
+</view>
+
+
+<view class='sousuo'>
+  <image src='/image/2.png'></image>
+  <view class="section">  
+    <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+      <view class="picker">
+        保险公司：{{array[index]}}
+      </view>
+    </picker>
+  </view>
+</view>
+
+
+<view class='sousuo'>
+  <image src='/image/2.png'></image>
+  <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+    <view class="picker">
+      保险种类：{{time[index]}}
+    </view>
+  </picker>
+</view>
+
+<view class='jine'> 
+  <view class='fapiao'>发票金额（元）</view>
+  <view class='kongbai'></view>
+  <input name='keyword' placeholder="请输入金额" type="text" maxlength="50" placeholder-style="color:#ccc"/>
+</view>
+
+
+<view class='baoxian'>
+  <view class='baofei'>保费总额（元）</view>
+  <view class='yi'>第一年保费明细（元）</view>
+  <view class='yi'>第二年保费明细（元）</view>
+  <view class='yi'>第三年保费明细（元）</view>
+</view>
+
+<button class='tijiao'>提交</button>

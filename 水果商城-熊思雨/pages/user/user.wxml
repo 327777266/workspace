@@ -1,0 +1,81 @@
+
+<view class='touxiang'>
+  <view class="userinfo">
+    <button class='hq' wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+</view>
+
+<view class="nav">
+     <view class='color'></view>
+  <view class='dingdan'>
+     <view class='wddd'>我的订单</view>
+     <view class='ckqb' bindtap='all'>查看全部订单
+     <image class='pic' src='/image/6.png'></image></view>
+  </view>
+
+
+
+ <view class='icon'>
+  <view >
+    <image class='logo' bindtap='all' mode='aspectFit' src='/image/icon8.png'></image>
+    <view class='text'>待付款</view> 
+  </view>
+
+  <view >
+    <image class='logo' bindtap='all' mode='aspectFit' src='/image/icon9.png'></image>
+    <view class='text'>待发货</view> 
+  </view>
+ 
+  <view >
+    <image class='logo' bindtap='all' mode='aspectFit'  src='/image/icon10.png'></image>
+    <view class='text'>已收货</view> 
+   </view>
+
+  <view >
+    <image class='logo' bindtap='all' mode='aspectFit' src='/image/icon11.png'></image>
+    <view class='text'>已完成</view> 
+  </view>
+</view>
+
+  <view class='color'></view>
+  <navigator url='/pages/index/index' open-type='switchTab' >
+    <view class='gouwuche'>购物车</view>
+  </navigator>  
+  <view class='color'></view>
+
+ <view class='dingdan'>
+     <view class='wddd'>我的会员卡</view>
+     <view class='ckqb'>
+     <image class='pic' src='/image/6.png'></image></view>
+  </view>
+
+  <view class='dingdan'>
+     <view class='wddd'>我的优惠券</view>
+     <view class='ckqb'>
+     <image class='pic' src='/image/6.png'></image></view>
+  </view>
+
+  <view class='dingdan'>
+     <view class='wddd'>我的优惠码</view>
+     <view class='ckqb'>
+     <image class='pic' src='/image/6.png'></image></view>
+  </view>
+
+   <view class='dingdan'>
+     <view class='wdddone'>我购买的专栏，内容</view>
+     <view class='ckqbone'>
+     <image class='pic' src='/image/6.png'></image></view>
+  </view>
+
+
+</view>  
+
+
+  
+
+
+

@@ -1,0 +1,10 @@
+<!--pages/Fifth/Fifth.wxml-->
+<view class='tu'>
+  <image class='yi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/Q9ybB8wb8z6YBiiNbj1jWzzsKzDqZj.png'></image>
+  <image class='er' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/xx6WSX34GAz6fAb4j3bGhTljhF64jl.png'></image>
+  <image class='san' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/n22mjerept8RMaM5mNmPJq5eqpPPpm.jpg'></image>
+  <image class='si' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/tD9yvzY9o00Y9rV9Yu1or89KbU78Y7.jpg'></image>
+  <image class='wu' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/LSWfw6z6xZTVdwDXkwJ2DDiC2SFCjS.jpg'></image>
+  <image class='liu' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/V6c9SdC48Y4c68W8ZS0CsKw8dFsq8u.jpg'></image>
+  <image class='qi' src='http://vote.zswhcb.cn/attachment/images/2/2018/05/msGfpSlaAsKLKLFP4bk8pL4ArAJszk.jpg'></image>
+</view>

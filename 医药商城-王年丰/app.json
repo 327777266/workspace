@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/goods/goods",
+    "pages/car/car",
+    "pages/mine/mine",
+    "pages/old/old",
+    "pages/rush/rush",
+    "pages/fullorder/fullorder",
+    "pages/address/address"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#2dae99",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "医药商城",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light"
+    
+  },
+  "tabBar": {
+    "borderStyle": "white",
+    "selectedColor": "#2dae99",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页"
+     
+    },
+    {
+      "pagePath": "pages/goods/goods",
+      "text": "商店"
+      
+    },
+        {
+          "pagePath": "pages/car/car",
+          "text": "购物车"
+        },
+            {
+              "pagePath": "pages/mine/mine",
+              "text": "我的"
+            }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+/* pages/industryinformation/two/two.wxss */
+
+.da{
+  width: 100%;
+}
+
+.yi{
+  width: 100%;
+  font-size: 50rpx;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20rpx;
+}
+
+.er{
+  margin: 20rpx 0 20rpx 0;
+  line-height: 55rpx;
+  font-size: 38rpx;
+  font-weight: bold;
+}

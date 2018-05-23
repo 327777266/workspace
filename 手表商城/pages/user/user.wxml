@@ -1,0 +1,110 @@
+<!--pages/user/user.wxml-->
+<view id="userhead" bindlongtap="showUserTip" bindtap="showUserTip">
+  <view class="userinfo">
+    <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+   <view> <text class="userinfo-nickname">{{userInfo.nickName}}</text></view>
+  </view>
+</view>
+<!-- <view id="other">
+  <view id='addr' bindtap="navigateToAddr">
+    我的地址
+  </view>
+
+  <view id='order'>
+    <view class='order-item' style="background-image: url(../../image/order.png); background-position:20rpx center" bindtap="navigateToOrder">
+      全部订单<text class='more'></text> 
+    </view>
+    <view class='order-item' style="background-image: url(../../image/pay.png); background-position:20rpx center" bindtap="navigateToOrder_pay">
+      待付款<text class='more'></text> 
+    </view>
+    <view class='order-item' style="background-image: url(../../image/need.png); background-position:20rpx center" bindtap="navigateToOrder_get">
+      待收货<text class='more'></text> 
+    </view>
+  </view>
+</view> -->
+
+
+ <!--分类-->
+     <view class="nav">
+      
+      <view class='boxView' >
+       <image class='boxView image' src='/image/all.png' mode='aspectFit' bindtap="navigateToOrder"></image>
+      <text class='boxView text'>全部订单</text>
+      </view>
+      <view class='boxView' >
+        <image class='boxView image' src='/image/payment.png' mode='aspectFit' bindtap="navigateToOrder_pay"></image>
+      <text class='boxView text'>待付款</text>
+      </view>
+      <view class='boxView' bindtap='toService'>
+        <image class='boxView image' src='/image/consignment.png' mode='aspectFit' bindtap="navigateToOrder_fa"></image>
+      <text class='boxView text'>待发货</text>
+      </view>
+      <view class='boxView' bindtap='toJoin'>
+        <image class='boxView image' src='/image/greenneed.png' mode='aspectFit' bindtap="navigateToOrder_get"></image>
+      <text class='boxView text'>待收货</text>
+      </view>
+        
+       
+    </view>
+     <view class='navDown'>
+        
+              <view class='boxView' >
+       <image class='boxView image' src='/image/distribute.png' mode='aspectFit' bindtap="navigateToOrder"></image>
+      <text class='boxView text'>分销申请</text>
+      </view>
+      <view class='boxView' >
+        <image class='boxView image' src='/image/special.png' mode='aspectFit' bindtap="navigateToOrder_pay"></image>
+      <text class='boxView text'>专题页面</text>
+      </view>
+      <view class='boxView' bindtap='toService'>
+        <image class='boxView image' src='/image/fun.png' mode='aspectFit' bindtap="navigateToOrder_fa"></image>
+      <text class='boxView text'>我的粉丝</text>
+      </view>
+      <view class='boxView' bindtap='toJoin'>
+        <image class='boxView image' src='/image/card.png' mode='aspectFit' bindtap="navigateToOrder_get"></image>
+      <text class='boxView text'>代言名片</text>
+      </view>
+        
+        </view>
+     <view class='navDown2'>
+        
+              <view class='boxView' >
+       <image class='boxView image' src='/image/integral.png' mode='aspectFit' bindtap="navigateToOrder"></image>
+      <text class='boxView text'>我的积分</text>
+      </view>
+      <view class='boxView' >
+        <image class='boxView image' src='/image/coupon.png' mode='aspectFit' bindtap="navigateToOrder_pay"></image>
+      <text class='boxView text'>优惠券</text>
+      </view>
+      <view class='boxView' bindtap='toService'>
+        <image class='boxView image' src='/image/recharge.png' mode='aspectFit' bindtap="navigateToOrder_fa"></image>
+      <text class='boxView text'>余额充值</text>
+      </view>
+      <view class='boxView' bindtap='toJoin'>
+        <image class='boxView image' src='/image/cash.png' mode='aspectFit' bindtap="navigateToOrder_get"></image>
+      <text class='boxView text'>余额提现</text>
+      </view>
+        
+        </view>
+
+          <view class='navDown2'>
+        
+              <view class='boxView' >
+       <image class='boxView image' src='/image/residence.png' mode='aspectFit' bindtap="navigateToOrder"></image>
+      <text class='boxView text'>会员权益</text>
+      </view>
+      <view class='boxView' >
+        <image class='boxView image' src='/image/data.png' mode='aspectFit' bindtap="navigateToOrder_pay"></image>
+      <text class='boxView text'>编辑资料</text>
+      </view>
+      <view class='boxView' bindtap='toService'>
+        <image class='boxView image' src='/image/address.png' mode='aspectFit' bindtap="navigateToOrder_ad"></image>
+      <text class='boxView text'>收货地址</text>
+      </view>
+      <view class='boxView' bindtap='toJoin'>
+        <image class='boxView image' src='/image/residence.png' mode='aspectFit' bindtap="navigateToOrder_get"></image>
+      <text class='boxView text'>店铺入驻</text>
+      </view>
+        
+        </view>
+          

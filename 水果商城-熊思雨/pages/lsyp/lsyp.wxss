@@ -1,0 +1,47 @@
+/* pages/lsyp/lsyp.wxss */
+.fengli{width: 100%;
+      display: flex;
+      flex-direction: row;
+      margin-top: 40rpx;
+
+}
+
+
+  
+
+.fl{width: 340rpx;
+    height: 340rpx;
+    margin-left: 20rpx;
+    
+}
+
+
+
+.jieshao{width: 340rpx;
+   font-size: 30rpx;
+   height: 20px;
+   text-align: center;
+   margin-top: 10rpx;
+}
+
+.price{width: 340rpx;
+      height:60rpx;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      margin-top: 20rpx;
+   
+}
+
+.money{width: 250rpx;
+  height: 60rpx;
+  color: red;
+  margin-left: 30rpx;
+}
+
+
+.moneyone{width: 50rpx;
+  height: 50rpx;
+ 
+  
+}

@@ -1,0 +1,59 @@
+<!--pages/aging/aging.wxml-->
+<view class='tupian'>
+  <image class='images' src='https://i01piccdn.sogoucdn.com/10b02dddb4f31010'></image>
+</view>
+<view class='sousuo'>
+  <image src='/image/1.png'></image>
+  <view class='wenzi'>车型品牌</view>
+  <input name='keyword' placeholder="商品搜索：输入关键字" type="text" maxlength="50" placeholder-style="color:#ccc"/>
+  <button form-type="submit" size="mini">搜索</button>
+</view>
+
+<view class='xian'></view>
+
+<view class='sousuo'>
+  <image src='/image/2.png'></image>
+  <view class="section">  
+    <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+      <view class="picker">
+        银行选择：{{array[index]}}
+      </view>
+    </picker>
+  </view>
+</view>
+
+<view class='xian'></view>
+
+<view class='jine'> 
+  <view class='fapiao'>发票金额（元）</view>
+  <view class='kongbai'></view>
+  <input name='keyword' placeholder="请输入金额" type="text" maxlength="50" placeholder-style="color:#ccc"/>
+</view>
+
+<view class='xian'></view>
+
+<view class='bili'>
+  <view class='wenzi'>首付比例</view>
+  <image src='/image/bigmore.png'></image>
+</view>
+
+<view class='xian'></view>
+
+<view class='jine'> 
+  <view class='fapiao'>加融保险金额（元）</view>
+  <view class='kongbai'></view>
+  <input name='keyword' placeholder="请输入金额" type="text" maxlength="50" placeholder-style="color:#ccc"/>
+</view>
+
+<view class='xian'></view>
+
+<view class='bili'>
+  <view class='wenzi'>带款期限</view>
+  <image src='/image/bigmore.png'></image>
+</view>
+
+<view class='xian'></view>
+
+<view class='yuegong'>月供金额（元）</view>
+
+<button class='tijiao'>提交</button>

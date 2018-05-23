@@ -1,0 +1,80 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/goods/goods",
+    "pages/cart/cart",
+    "pages/user/order/order",
+    "pages/user/order/detail/detail",
+    "pages/addr/edit/edit",
+    "pages/user/user",
+    "pages/addr/addr",
+    "pages/deail/deail",
+    "pages/goodsbdfl/goodsbdfl",
+    "pages/goodslg/goodslg",
+    "pages/goodslls/goodslls",
+    "pages/goodsomj/goodsomj",
+    "pages/goodswbl/goodswbl",
+    "pages/goodsdd/goodsdd",
+    "pages/goodsts/goodsts",
+    "pages/goodsmd/goodsmd",
+    "pages/goodsswq/goodsswq",
+    "pages/goodsams/goodsams",
+    "pages/toFifth/toFifth",
+    "pages/toEighth/toEighth",
+    "pages/toFirst/toFirst",
+    "pages/toFourth/toFourth",
+    "pages/toSecond/toSecond",
+    "pages/toSeventh/toSeventh",
+    "pages/toSixth/toSixth",
+    "pages/toThird/toThird",
+    "pages/toYi/toYi",
+    "pages/toEr/toEr",
+    "pages/toSan/toSan",
+    "pages/toSi/toSi",
+    "pages/toWu/toWu",
+    "pages/toLiu/toLiu",
+    "pages/more/more",
+    "pages/Buy/Buy",
+    "pages/Riches/Riches",
+    "pages/Fifth/Fifth",
+    "pages/Heaven/Heaven",
+    "pages/Conscience/Conscience"
+    
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "瑞隆腕表族",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "selectedColor": "red",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "image/icon_all.png",
+        "selectedIconPath": "image/icon_all_se.png"
+      },
+      {
+        "pagePath": "pages/goods/goods",
+        "text": "商品",
+        "iconPath": "image/shangpin.jpg",
+        "selectedIconPath": "image/shangpin1.jpg"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "image/cart.png",
+        "selectedIconPath": "image/cart_se.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "个人中心",
+        "iconPath": "image/account.png",
+        "selectedIconPath": "image/account_se.png"
+      }
+    ]
+  }
+}

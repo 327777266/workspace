@@ -1,0 +1,38 @@
+<view class='header'>
+
+<view class='all'>
+  <image class='pic'  mode='aspectFit' src='http://www.montblanc.cn/content/dam/mtb/products/watches/113/705/113705/204332-ecom-retina-01.png.adapt.500.500.png'></image>
+  <!-- <view class='text'> 超级复杂功能计时 6104G-001</view> -->
+
+<view class='textone'>
+   <view class='texttwo'>69300</view>
+   <view class='textsele'>HK$67300</view>
+   <view class='textthree'>暂无售价</view>
+</view>
+
+<view class='wenzi'>
+    <view class='wenzifour'>国内价格</view>
+    <view class='wenzifive'>香港售价</view>
+    <view class='wenzisix'>欧洲售价</view>
+</view>
+    <view class='color'></view>
+</view>
+
+<view class='picture'>
+<image  class='picone'  src='../../image/wanbaolong1.png'></image>
+</view>
+
+<view class='picturetwo'>
+<image  class='pictwo'  src='../../image/wanbaolong2.png'></image>
+</view>
+
+<view class='picturethree'>
+<image  class='picthree'  src='../../image/wanbaolong3.png'></image>
+</view>
+
+<view class='picturefour'>
+<image  class='picfour'  src='../../image/wanbaolong4.png'></image>
+</view>
+
+</view>
+

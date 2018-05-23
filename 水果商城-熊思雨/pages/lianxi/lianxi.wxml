@@ -1,0 +1,53 @@
+
+<view class='header'>
+<view class='compnayname'>长春智盛科技有限公司 </view>
+<view class='weixin'>公司企业 . 微信小程序</view>
+
+</view>
+
+
+<view id='main'>
+
+  <view class='address'><image src='/image/1.png' mode='aspectFit'></image></view>
+  <view class='content'bindtap='openMap' >吉林省长春市宽城区南广场医药大厦8楼
+  <image class='dizhi' src='/image/6.png' mode='aspectFit'></image></view>
+
+</view>   
+
+<view id='main'>
+<view class='address'><image src='/image/2.png' mode='aspectFit'></image></view>
+<view class='content'>9-10点</view>
+</view>
+
+<view id='main'>
+<view class='address'>
+<image src='/image/3.png' mode='aspectFit'></image></view>
+<view class='iphone'><navigator bindtap='calling'>0791-888888</navigator>
+<image class='phone' src='/image/6.png'mode='aspectFit'></image>
+</view>
+
+</view>
+
+
+<view id='main'>
+<view class='address'><image src='/image/4.png' mode='aspectFill' ></image></view>
+<view class='content'>商户介绍</view>
+</view>
+
+<view class='text'>鲜多多进口水果超市--水果正规军，一口就上瘾 不要止
+于围观，它们的味道很鲜美 通过海关的层层检验送到你面前欢迎到店选购
+</view>
+
+<view class='pic'>
+
+<image  class='picture' mode='aspectFit' src='https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1138118090,868285634&fm=27&gp=0.jpg'></image>
+
+<image  class='pictureone' mode='aspectFit' src='https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1108192152,3136876925&fm=27&gp=0.jpg'></image>
+
+<image  class='picture' mode='aspectFit' src='https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2195648043,1630159147&fm=27&gp=0.jpg'></image>
+
+</view>
+
+
+
+

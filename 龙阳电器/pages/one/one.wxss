@@ -1,0 +1,28 @@
+/* pages/industryinformation/ome/one.wxss */
+.wenzi{
+  width: 100%;
+  line-height: 80rpx;
+}
+
+.wenzi_01{
+  font-size: 50rpx;
+  font-weight: bold;
+  text-align: center;
+}
+
+.wenzi_02{
+  font-size: 35rpx;  
+  text-align: center;
+}
+
+
+.shuzi{
+  margin-left: 60rpx;
+  font-size: 38rpx;
+  font-weight: bold;
+}
+
+.biaoti{
+  font-size: 38rpx;
+  font-weight: bold;
+}
